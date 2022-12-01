@@ -1,0 +1,27 @@
+//apply plugin: 'com.android.library'
+//apply plugin: 'kotlin-android'
+//apply plugin: 'kotlin-parcelize'
+//apply from: './../../commonlibs1.gradle'
+//def librarys = rootProject.ext.dependencies //
+//
+//dependencies {
+//    implementation fileTree(dir: 'libs', include: ['*.jar'])
+////    implementation 'com.google.zxing:core:3.3.3'
+//    implementation 'com.github.geeklx.libbase2:libutils:2.3.1'//核心库
+//}
+//// mob
+//apply from: './../../MobSDK.gradle'
+
+apply from: "${rootDir.path}/gradle/publish.gradle"
+apply from: "${rootDir.path}/gradle/base.gradle"
+def librarys = rootProject.ext.dependencies //依赖
+dependencies {
+    implementation fileTree(dir: 'libs', include: ['*.jar'])
+    implementation 'androidx.appcompat:appcompat:1.3.1'
+//    testImplementation 'junit:junit:4.12'
+//    androidTestImplementation 'com.android.support.test:runner:1.0.1'
+//    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
+    //最低支持Android7
+//    implementation 'com.google.zxing:core:3.4.1'
+    implementation 'com.google.zxing:core:3.3.3'
+}
