@@ -66,14 +66,14 @@ dependencies {
     testImplementation 'junit:junit:4.13.2'
     androidTestImplementation 'androidx.test.ext:junit:1.1.3'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.4.0'
-//    implementation project(':libgeek')
+    implementation project(':libgeek')
     implementation 'com.github.geeklx.libbase2:libutils:2.1.4'
 //    implementation 'com.github.geeklx.libbase2:libgeek:2.2.2'//核心库
-    implementation 'com.github.geeklx.xinghuoku:liball:1.0.0'//核心库
-    // 或者
-    implementation 'com.github.geeklx.xinghuoku:library:1.0.0'//核心库
-    implementation 'com.github.geeklx.xinghuoku:livemodule:1.0.0'//核心库
-    implementation 'com.github.geeklx.xinghuoku:UdeskSDKUI:1.0.0'//核心库
-    implementation 'com.github.geeklx.xinghuoku:zxinglibrary:1.0.0'//核心库
+//    implementation 'com.github.geeklx.xinghuoku:liball:1.0.0'//核心库
+//    // 或者
+//    implementation 'com.github.geeklx.xinghuoku:library:1.0.0'//核心库
+//    implementation 'com.github.geeklx.xinghuoku:livemodule:1.0.0'//核心库
+//    implementation 'com.github.geeklx.xinghuoku:UdeskSDKUI:1.0.0'//核心库
+//    implementation 'com.github.geeklx.xinghuoku:zxinglibrary:1.0.0'//核心库
 
 }

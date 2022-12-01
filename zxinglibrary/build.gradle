@@ -23,5 +23,5 @@ dependencies {
 //    androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
     //最低支持Android7
 //    implementation 'com.google.zxing:core:3.4.1'
-    implementation 'com.google.zxing:core:3.3.3'
+    implementation 'com.google.zxing:core:3.2.1'
 }
