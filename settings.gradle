@@ -44,7 +44,7 @@ dependencyResolutionManagement {
         maven { url 'https://plugins.gradle.org/m2/' }
     }
 }
-rootProject.name = "libbase1"
+rootProject.name = "xinghuoku"
 include ':app'
 // start aar
 include ':libsCenter', ':biz-libs'
