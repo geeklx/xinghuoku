@@ -10,6 +10,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import com.blankj.utilcode.util.AppUtils;
 import com.blankj.utilcode.util.Utils;
+import com.gelitenight.waveview.library.WaveView;
 
 //import com.app.hubert.guide.newbieguide.FirstActivity;
 //import com.blankj.utilcode.util.Utils;
@@ -78,6 +79,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 ////        tv1.setText(EncodeUtils.base64Encode2String("梁肖".getBytes()));
 //        String str2 = new String(Base64.decode(strBase64.getBytes(), Base64.DEFAULT));// 解码
 //        tv1.setText(strBase64 + "," + str2);
+        WaveView waveView;
     }
 
     @Override

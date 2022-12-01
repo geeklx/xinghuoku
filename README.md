@@ -50,6 +50,12 @@ Share this release:
     implementation 'com.github.geeklx.libbase1:libpicturerecognitiontext:2.0.6'//图片识别文字三方库
     implementation 'com.github.geeklx.libbase1:libzxinglite:2.0.6'//扫描优化库
     // 方式1
+    implementation 'com.github.geeklx.xinghuoku:liball:1.0.0'//核心库
+    implementation 'com.github.geeklx.xinghuoku:library:1.0.0'//核心库
+    implementation 'com.github.geeklx.xinghuoku:livemodule:1.0.0'//核心库
+    implementation 'com.github.geeklx.xinghuoku:UdeskSDKUI:1.0.0'//核心库
+    implementation 'com.github.geeklx.xinghuoku:zxinglibrary:1.0.0'//核心库
+    
     implementation 'com.github.geeklx.libbase2:libutils:2.0.7'//核心库
     implementation 'com.github.geeklx.libbase2:libbase:2.0.7'//核心库
     implementation 'com.github.geeklx.libbase2:libotherlibs:2.0.7'//核心库
