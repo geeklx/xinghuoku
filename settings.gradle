@@ -60,7 +60,7 @@ include ':libsCenterNew',
 // end aar
 
 // commonlibs
-include ':libgeek'
+include ':liball'
 include ':library'
 include ':livemodule'
 include ':UdeskSDKUI'
