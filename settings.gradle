@@ -61,6 +61,7 @@ include ':libsCenterNew',
 
 // commonlibs
 include ':liball'
+include ':compressor'
 include ':library'
 include ':livemodule'
 include ':UdeskSDKUI'
