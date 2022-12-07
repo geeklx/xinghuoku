@@ -1,0 +1,5032 @@
+{
+  "questionnum": 6,
+  "questionlist": [
+    {
+      "questionKey": null,
+      "questionSubject": null,
+      "paperType": "1",
+      "audioFile": null,
+      "isSubtitle": "2",
+      "description": "这是2019年1月的测试试卷1234567890",
+      "matpKey": null,
+      "sort": "1",
+      "questionInfo": null,
+      "questionlist": [
+        {
+          "questionKey": "629120719266740958",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "isright": null,
+            "item": [
+              {
+                "imgs": "",
+                "content": "表格",
+                "order": "A",
+                "isAnswer": "1"
+              },
+              {
+                "imgs": "",
+                "content": "单元格",
+                "order": "B",
+                "isAnswer": ""
+              },
+              {
+                "imgs": "",
+                "content": "工作表",
+                "order": "C",
+                "isAnswer": ""
+              },
+              {
+                "imgs": "",
+                "content": "工作簿",
+                "order": "D",
+                "isAnswer": ""
+              }
+            ],
+            "audioFile": "",
+            "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>",
+            "sort": "1",
+            "useranswer": "",
+            "rightanswer": "A",
+            "questionType": "1",
+            "stem": "Excel的工作表中，每一行和列交叉处为（）。"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "1",
+          "paperExplain": null,
+          "questionType": "1",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "629086436837783771",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "isright": null,
+            "item": [
+              {
+                "imgs": "",
+                "content": "表格",
+                "order": "A",
+                "isAnswer": "1"
+              },
+              {
+                "imgs": "",
+                "content": "单元格",
+                "order": "B",
+                "isAnswer": ""
+              },
+              {
+                "imgs": "",
+                "content": "工作表",
+                "order": "C",
+                "isAnswer": ""
+              },
+              {
+                "imgs": "",
+                "content": "工作簿",
+                "order": "D",
+                "isAnswer": ""
+              }
+            ],
+            "audioFile": "",
+            "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>",
+            "sort": "2",
+            "useranswer": "",
+            "rightanswer": "A",
+            "questionType": "1",
+            "stem": "Excel的工作表中，每一行和列交叉处为（）。"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "2",
+          "paperExplain": null,
+          "questionType": "1",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "629054241762932839",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "isright": null,
+            "item": [
+              {
+                "imgs": "",
+                "content": "表格",
+                "order": "A",
+                "isAnswer": "1"
+              },
+              {
+                "imgs": "",
+                "content": "单元格",
+                "order": "B",
+                "isAnswer": ""
+              },
+              {
+                "imgs": "",
+                "content": "工作表",
+                "order": "C",
+                "isAnswer": ""
+              },
+              {
+                "imgs": "",
+                "content": "工作簿",
+                "order": "D",
+                "isAnswer": ""
+              }
+            ],
+            "audioFile": "",
+            "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>",
+            "sort": "3",
+            "useranswer": "",
+            "rightanswer": "A",
+            "questionType": "1",
+            "stem": "Excel的工作表中，每一行和列交叉处为（）。"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "3",
+          "paperExplain": null,
+          "questionType": "1",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "629051870940985306",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "isright": null,
+            "item": [
+              {
+                "imgs": "",
+                "content": "表格",
+                "order": "A",
+                "isAnswer": "1"
+              },
+              {
+                "imgs": "",
+                "content": "单元格",
+                "order": "B",
+                "isAnswer": ""
+              },
+              {
+                "imgs": "",
+                "content": "工作表",
+                "order": "C",
+                "isAnswer": ""
+              },
+              {
+                "imgs": "",
+                "content": "工作簿",
+                "order": "D",
+                "isAnswer": ""
+              }
+            ],
+            "audioFile": "",
+            "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>",
+            "sort": "4",
+            "useranswer": "",
+            "rightanswer": "A",
+            "questionType": "1",
+            "stem": "Excel的工作表中，每一行和列交叉处为（）。"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "4",
+          "paperExplain": null,
+          "questionType": "1",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "629042714070709954",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "isright": null,
+            "item": [
+              {
+                "imgs": "",
+                "content": "表格",
+                "order": "A",
+                "isAnswer": "1"
+              },
+              {
+                "imgs": "",
+                "content": "单元格",
+                "order": "B",
+                "isAnswer": ""
+              },
+              {
+                "imgs": "",
+                "content": "工作表",
+                "order": "C",
+                "isAnswer": ""
+              },
+              {
+                "imgs": "",
+                "content": "工作簿",
+                "order": "D",
+                "isAnswer": ""
+              }
+            ],
+            "audioFile": "",
+            "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>",
+            "sort": "5",
+            "useranswer": "",
+            "rightanswer": "A",
+            "questionType": "1",
+            "stem": "Excel的工作表中，每一行和列交叉处为（）。"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "5",
+          "paperExplain": null,
+          "questionType": "1",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "629013207645386204",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "isright": null,
+            "item": [
+              {
+                "imgs": "",
+                "content": "表格",
+                "order": "A",
+                "isAnswer": "1"
+              },
+              {
+                "imgs": "",
+                "content": "单元格",
+                "order": "B",
+                "isAnswer": ""
+              },
+              {
+                "imgs": "",
+                "content": "工作表",
+                "order": "C",
+                "isAnswer": ""
+              },
+              {
+                "imgs": "",
+                "content": "工作簿",
+                "order": "D",
+                "isAnswer": ""
+              }
+            ],
+            "audioFile": "",
+            "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>",
+            "sort": "6",
+            "useranswer": "",
+            "rightanswer": "A",
+            "questionType": "1",
+            "stem": "Excel的工作表中，每一行和列交叉处为（）。"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "6",
+          "paperExplain": null,
+          "questionType": "1",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "629011137471149378",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "isright": null,
+            "item": [
+              {
+                "imgs": "",
+                "content": "表格",
+                "order": "A",
+                "isAnswer": "1"
+              },
+              {
+                "imgs": "",
+                "content": "单元格",
+                "order": "B",
+                "isAnswer": ""
+              },
+              {
+                "imgs": "",
+                "content": "工作表",
+                "order": "C",
+                "isAnswer": ""
+              },
+              {
+                "imgs": "",
+                "content": "工作簿",
+                "order": "D",
+                "isAnswer": ""
+              }
+            ],
+            "audioFile": "",
+            "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>",
+            "sort": "7",
+            "useranswer": "",
+            "rightanswer": "A",
+            "questionType": "1",
+            "stem": "Excel的工作表中，每一行和列交叉处为（）。"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "7",
+          "paperExplain": null,
+          "questionType": "1",
+          "isCollected": "0",
+          "userPracticeKey": null
+        }
+      ],
+      "totalCount": "11",
+      "groupKey": "630428846046024001",
+      "score": "100.00",
+      "groupName": "第一题（单选）",
+      "isRight": null,
+      "userAnswer": null,
+      "questionSort": null,
+      "paperExplain": "",
+      "questionType": null,
+      "isCollected": null,
+      "userPracticeKey": null
+    },
+    {
+      "questionKey": null,
+      "questionSubject": null,
+      "paperType": "1",
+      "audioFile": null,
+      "isSubtitle": "2",
+      "description": "这是2019年1月的测试试卷1234567890",
+      "matpKey": null,
+      "sort": "2",
+      "questionInfo": null,
+      "questionlist": [
+        {
+          "questionKey": "625446271665774884",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "isright": null,
+            "item": [
+              {
+                "imgs": "",
+                "content": "表格",
+                "order": "A",
+                "isAnswer": "1"
+              },
+              {
+                "imgs": "",
+                "content": "单元格",
+                "order": "B",
+                "isAnswer": "1"
+              },
+              {
+                "imgs": "",
+                "content": "工作表",
+                "order": "C",
+                "isAnswer": ""
+              },
+              {
+                "imgs": "",
+                "content": "工作簿",
+                "order": "D",
+                "isAnswer": ""
+              }
+            ],
+            "audioFile": "",
+            "analyze": "<p>您选择的答案：</p><p>正确答案：AB</p>",
+            "sort": "8",
+            "useranswer": "",
+            "rightanswer": "AB",
+            "questionType": "2",
+            "stem": "Excel的工作表中，每一行和列交叉处为（）。"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "8",
+          "paperExplain": null,
+          "questionType": "2",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "625439915114176669",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "isright": null,
+            "item": [
+              {
+                "imgs": "",
+                "content": "表格",
+                "order": "A",
+                "isAnswer": "1"
+              },
+              {
+                "imgs": "",
+                "content": "单元格",
+                "order": "B",
+                "isAnswer": "1"
+              },
+              {
+                "imgs": "",
+                "content": "工作表",
+                "order": "C",
+                "isAnswer": ""
+              },
+              {
+                "imgs": "",
+                "content": "工作簿",
+                "order": "D",
+                "isAnswer": ""
+              }
+            ],
+            "audioFile": "",
+            "analyze": "<p>您选择的答案：</p><p>正确答案：AB</p>",
+            "sort": "9",
+            "useranswer": "",
+            "rightanswer": "AB",
+            "questionType": "2",
+            "stem": "Excel的工作表中，每一行和列交叉处为（）。"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "9",
+          "paperExplain": null,
+          "questionType": "2",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "625434666664140807",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "isright": null,
+            "item": [
+              {
+                "imgs": "",
+                "content": "表格",
+                "order": "A",
+                "isAnswer": "1"
+              },
+              {
+                "imgs": "",
+                "content": "单元格",
+                "order": "B",
+                "isAnswer": "1"
+              },
+              {
+                "imgs": "",
+                "content": "工作表",
+                "order": "C",
+                "isAnswer": ""
+              },
+              {
+                "imgs": "",
+                "content": "工作簿",
+                "order": "D",
+                "isAnswer": ""
+              }
+            ],
+            "audioFile": "",
+            "analyze": "<p>您选择的答案：</p><p>正确答案：AB</p>",
+            "sort": "10",
+            "useranswer": "",
+            "rightanswer": "AB",
+            "questionType": "2",
+            "stem": "Excel的工作表中，每一行和列交叉处为（）。"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "10",
+          "paperExplain": null,
+          "questionType": "2",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "625267162939592903",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "isright": null,
+            "item": [
+              {
+                "imgs": "",
+                "content": "表格",
+                "order": "A",
+                "isAnswer": "1"
+              },
+              {
+                "imgs": "",
+                "content": "单元格",
+                "order": "B",
+                "isAnswer": "1"
+              },
+              {
+                "imgs": "",
+                "content": "工作表",
+                "order": "C",
+                "isAnswer": ""
+              },
+              {
+                "imgs": "",
+                "content": "工作簿",
+                "order": "D",
+                "isAnswer": ""
+              }
+            ],
+            "audioFile": "",
+            "analyze": "<p>您选择的答案：</p><p>正确答案：AB</p>",
+            "sort": "11",
+            "useranswer": "",
+            "rightanswer": "AB",
+            "questionType": "2",
+            "stem": "Excel的工作表中，每一行和列交叉处为（）。"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "11",
+          "paperExplain": null,
+          "questionType": "2",
+          "isCollected": "0",
+          "userPracticeKey": null
+        }
+      ],
+      "totalCount": "11",
+      "groupKey": "630428846046024009",
+      "score": "100.00",
+      "groupName": "第二题（多选）",
+      "isRight": null,
+      "userAnswer": null,
+      "questionSort": null,
+      "paperExplain": "",
+      "questionType": null,
+      "isCollected": null,
+      "userPracticeKey": null
+    },
+    {
+      "questionKey": null,
+      "questionSubject": null,
+      "paperType": "1",
+      "audioFile": null,
+      "isSubtitle": "2",
+      "description": "这是2019年1月的测试试卷1234567890",
+      "matpKey": null,
+      "sort": "3",
+      "questionInfo": null,
+      "questionlist": [
+        {
+          "questionKey": "629120719266740970",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "isright": null,
+            "item": [
+              {
+                "imgs": "",
+                "content": "",
+                "order": "",
+                "isAnswer": "1"
+              },
+              {
+                "imgs": "",
+                "content": "正确",
+                "order": "1",
+                "isAnswer": "1"
+              }
+            ],
+            "audioFile": "",
+            "analyze": "<p>您选择的答案：</p><p>正确答案：Y</p>",
+            "sort": "12",
+            "useranswer": "",
+            "rightanswer": "Y",
+            "questionType": "3",
+            "stem": "Excel的工作表中，每一行和列交叉处为（）。"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "12",
+          "paperExplain": null,
+          "questionType": "3",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "629086436837783783",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "isright": null,
+            "item": [
+              {
+                "imgs": "",
+                "content": "",
+                "order": "",
+                "isAnswer": "1"
+              },
+              {
+                "imgs": "",
+                "content": "正确",
+                "order": "1",
+                "isAnswer": "1"
+              }
+            ],
+            "audioFile": "",
+            "analyze": "<p>您选择的答案：</p><p>正确答案：Y</p>",
+            "sort": "13",
+            "useranswer": "",
+            "rightanswer": "Y",
+            "questionType": "3",
+            "stem": "Excel的工作表中，每一行和列交叉处为（）。"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "13",
+          "paperExplain": null,
+          "questionType": "3",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "629054241762932851",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "isright": null,
+            "item": [
+              {
+                "imgs": "",
+                "content": "",
+                "order": "",
+                "isAnswer": "1"
+              },
+              {
+                "imgs": "",
+                "content": "正确",
+                "order": "1",
+                "isAnswer": "1"
+              }
+            ],
+            "audioFile": "",
+            "analyze": "<p>您选择的答案：</p><p>正确答案：Y</p>",
+            "sort": "14",
+            "useranswer": "",
+            "rightanswer": "Y",
+            "questionType": "3",
+            "stem": "Excel的工作表中，每一行和列交叉处为（）。"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "14",
+          "paperExplain": null,
+          "questionType": "3",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "629051870940985318",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "isright": null,
+            "item": [
+              {
+                "imgs": "",
+                "content": "",
+                "order": "",
+                "isAnswer": "1"
+              },
+              {
+                "imgs": "",
+                "content": "正确",
+                "order": "1",
+                "isAnswer": "1"
+              }
+            ],
+            "audioFile": "",
+            "analyze": "<p>您选择的答案：</p><p>正确答案：Y</p>",
+            "sort": "15",
+            "useranswer": "",
+            "rightanswer": "Y",
+            "questionType": "3",
+            "stem": "Excel的工作表中，每一行和列交叉处为（）。"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "15",
+          "paperExplain": null,
+          "questionType": "3",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "629042714070709966",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "isright": null,
+            "item": [
+              {
+                "imgs": "",
+                "content": "",
+                "order": "",
+                "isAnswer": "1"
+              },
+              {
+                "imgs": "",
+                "content": "正确",
+                "order": "1",
+                "isAnswer": "1"
+              }
+            ],
+            "audioFile": "",
+            "analyze": "<p>您选择的答案：</p><p>正确答案：Y</p>",
+            "sort": "16",
+            "useranswer": "",
+            "rightanswer": "Y",
+            "questionType": "3",
+            "stem": "Excel的工作表中，每一行和列交叉处为（）。"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "16",
+          "paperExplain": null,
+          "questionType": "3",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "629013207645386216",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "isright": null,
+            "item": [
+              {
+                "imgs": "",
+                "content": "",
+                "order": "",
+                "isAnswer": "1"
+              },
+              {
+                "imgs": "",
+                "content": "正确",
+                "order": "1",
+                "isAnswer": "1"
+              }
+            ],
+            "audioFile": "",
+            "analyze": "<p>您选择的答案：</p><p>正确答案：Y</p>",
+            "sort": "17",
+            "useranswer": "",
+            "rightanswer": "Y",
+            "questionType": "3",
+            "stem": "Excel的工作表中，每一行和列交叉处为（）。"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "17",
+          "paperExplain": null,
+          "questionType": "3",
+          "isCollected": "0",
+          "userPracticeKey": null
+        }
+      ],
+      "totalCount": "11",
+      "groupKey": "630428846046024014",
+      "score": "100.00",
+      "groupName": "第三题（判断）",
+      "isRight": null,
+      "userAnswer": null,
+      "questionSort": null,
+      "paperExplain": "",
+      "questionType": null,
+      "isCollected": null,
+      "userPracticeKey": null
+    },
+    {
+      "questionKey": null,
+      "questionSubject": null,
+      "paperType": "1",
+      "audioFile": null,
+      "isSubtitle": "2",
+      "description": "这是2019年1月的测试试卷1234567890",
+      "matpKey": null,
+      "sort": "4",
+      "questionInfo": null,
+      "questionlist": [
+        {
+          "questionKey": "629120719266740985",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "item": [
+              {
+                "isright": "",
+                "answer": "3|||三|||3个|||三个",
+                "useranswer": "",
+                "order": "1"
+              }
+            ],
+            "audioFile": "",
+            "analyze": "<p>您填写的答案：   </p><p>正确答案：   3|||三|||3个|||三个</p>考生填写“3”和“三”、“三个”都会自动判定为正确。",
+            "sort": "18",
+            "rightanswer": "   3|||三|||3个|||三个",
+            "questionType": "4",
+            "stem": "竹笛通常以第(______)孔音名作为调名。"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "18",
+          "paperExplain": null,
+          "questionType": "4",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "629120719266740981",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "item": [
+              {
+                "isright": "",
+                "answer": "声乐/器乐",
+                "useranswer": "",
+                "order": "2"
+              },
+              {
+                "isright": "",
+                "answer": "声乐/器乐",
+                "useranswer": "",
+                "order": "3"
+              }
+            ],
+            "audioFile": "",
+            "analyze": "<p>您填写的答案：      </p><p>正确答案：   声乐/器乐   声乐/器乐</p>本题会自动判卷。",
+            "sort": "19",
+            "rightanswer": "   声乐/器乐   声乐/器乐",
+            "questionType": "4",
+            "stem": "音乐中音色大致分成两大类：(______)、(______)。"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "19",
+          "paperExplain": null,
+          "questionType": "4",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "629120719266740977",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "item": [
+              {
+                "isright": "",
+                "answer": "光未然",
+                "useranswer": "光未然",
+                "order": "1"
+              },
+              {
+                "isright": "",
+                "answer": "闫述诗",
+                "useranswer": "",
+                "order": "1"
+              }
+            ],
+            "audioFile": "",
+            "analyze": "<p>您填写的答案：      </p><p>正确答案：   光未然   闫述诗</p>本题会自动判卷。",
+            "sort": "20",
+            "rightanswer": "   光未然   闫述诗",
+            "questionType": "4",
+            "stem": "《五月的鲜花 》是(______)词、 (______)词。"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "20",
+          "paperExplain": null,
+          "questionType": "4",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "629120719266740974",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "item": [
+              {
+                "isright": "",
+                "answer": "智取威虎山",
+                "useranswer": "",
+                "order": "1"
+              }
+            ],
+            "audioFile": "",
+            "analyze": "<p>您填写的答案：   </p><p>正确答案：   智取威虎山</p>本题会自动判卷。",
+            "sort": "21",
+            "rightanswer": "   智取威虎山",
+            "questionType": "4",
+            "stem": "《自己的队伍来到面前》是现代京剧《____________》选段。"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "21",
+          "paperExplain": null,
+          "questionType": "4",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "629086436837783801",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "item": [
+              {
+                "isright": "",
+                "answer": "去去去无",
+                "useranswer": "",
+                "order": "1"
+              }
+            ],
+            "audioFile": "",
+            "analyze": "<p>您填写的答案：   </p><p>正确答案：   去去去无</p>本题未设答案，所以需手工判卷。手工阅卷也要指明填空数。",
+            "sort": "22",
+            "rightanswer": "   去去去无",
+            "questionType": "4",
+            "stem": "贝多芬一生创作了10 部交响曲。其中最为著名的有第3、__、__、__交响曲。"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "22",
+          "paperExplain": null,
+          "questionType": "4",
+          "isCollected": "0",
+          "userPracticeKey": null
+        }
+      ],
+      "totalCount": "11",
+      "groupKey": "630428846046024021",
+      "score": "100.00",
+      "groupName": "第四题（填空）",
+      "isRight": null,
+      "userAnswer": null,
+      "questionSort": null,
+      "paperExplain": "",
+      "questionType": null,
+      "isCollected": null,
+      "userPracticeKey": null
+    },
+    {
+      "questionKey": null,
+      "questionSubject": null,
+      "paperType": "1",
+      "audioFile": null,
+      "isSubtitle": "2",
+      "description": "这是2019年1月的测试试卷1234567890",
+      "matpKey": null,
+      "sort": "5",
+      "questionInfo": null,
+      "questionlist": [
+        {
+          "questionKey": "629912178660184235",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "item": [
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "Computers will prevail over human beings.",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "Computers have unmatched potential.",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "Computers are man's potential rivals.",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "Computers can become highly intelligent.",
+                    "order": "D",
+                    "isAnswer": "1"
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：D</p>【定位】 由题干中的the example of AlphaGo's victory定位到第一段。</p><p>D)【精析】 细节辨认题。定位段指出,阿尔法围棋程序的成功很好地证明了电脑已经变得有多聪明,即电脑可以变得非常智能,故答案为D）。</p><p>【避错】 虽然文章一开始就提到阿尔法围棋程序的成功很好地证明了电脑已经变得有多聪明,但这和它们能否战胜人类无关,可以排除A)“电脑将会战胜人类”;文章最后一段表明人类才是最终的胜利者,用unmatched说法太绝对,电脑不可能超越人类，故可以排除B)“电脑有难以匹敌的潜力”;文章最后一段指出人工智能对人类是有利的存在,由此可见电脑并非人类的敌人,而是可以为人类服务的工具,可以排除C)“电脑是人类潜在的敌人”。</p><p>",
+                "sort": "23",
+                "useranswer": "",
+                "rightanswer": "D",
+                "questionType": "1",
+                "stem": "What does the author want to show with the example of AlphaGo's victory?"
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "They are capable of predicting possible risks.",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "They weigh the gains and losses before reaching a decision.",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "They make sensible decisions when facing moral dilemmas.",
+                    "order": "C",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "They sacrifice everything to save human lives.",
+                    "order": "D",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>【定位】 由题干中的AI machines acting ethically定位到第二段。</p><p>C)【精析】 推理判断题。定位段提出问题:人工智能机器能合乎伦理地做事情吗？即它们可以诚实和公正吗？作者在第三段进一步解释说明:它们有的时候会面临生命之间的抉择,在该救谁的伦理道德问题上作出判断,故答案为C）。</p><p>【避错】 文中提到人工智能机器按照程序行事,没有提到它们可以预测未知的事情,可以排除A)“它们能够预测可能出现的危险”;第三段第五句只是提到它们会面临生命之间的抉择,但没有说它们在这之前会权衡利弊,可以排除B)“它们在作出决定前会权衡利弊”;第三段第三句指出,它们可以拯救人类的生命,但是没有说它们会牺牲所有来拯救人类的生命,可以排除D)“它们牺牲所有来拯救人类的生命”。</p><p>",
+                "sort": "24",
+                "useranswer": "",
+                "rightanswer": "C",
+                "questionType": "1",
+                "stem": "What does the author mean by AI machines acting ethically?"
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "How to make super-intelligent AI machines share human feelings.",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "How to ensure that super-intelligent AI machines act ethically.",
+                    "order": "B",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "How to prevent AI machines doing harm to humans.",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "How to avoid being over-dependent on AI machines.",
+                    "order": "D",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>【定位】 由题干中的the bigger challenge定位到第四段第二句。</p><p>B)【精析】 细节辨认题。定位句提到,教那些甚至比我们还聪明的机器伦理道德将是更大的挑战。也就是说,确保那些超级聪明的人工智能机器合乎伦理地做事情对我们人类而言是一个更大的挑战,故答案为B）。</p><p>【避错】 文中未提及A)“如何让超级聪明的人工智能机器分享人类的情感”、C)“如何阻止人工智能机器伤害人类”和D)“如何避免过度依赖人工智能机器”这三个选项,故排除。</p><p>",
+                "sort": "25",
+                "useranswer": "",
+                "rightanswer": "B",
+                "questionType": "1",
+                "stem": "What is said to be the bigger challenge facing humans in the AI age?"
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "She could not distinguish good from bad.",
+                    "order": "A",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "She could turn herself off when necessary.",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "She was not made to handle novel situations.",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "She was good at performing routine tasks.",
+                    "order": "D",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>【定位】 由题干中的Microsoft's ‘chatbot’ Taylor定位到第五段。</p><p>A)【精析】 推理判断题。定位段第四、五句指出,泰勒被设计得可以慢慢提高其处理对话的能力,但是有些人在教她一些种族主义的观点。当她开始说希特勒好话的时候,微软公司将她关闭,并删除了她最恶劣的留言。由此可见,泰勒这一聊天程序没有辨别是非的能力,故答案为A）。</p><p>【避错】 第五段最后一句指出,是微软公司将泰勒关闭,而不是她将自己关闭,可以排除B)“当必要的时候,她可以关闭自己”;第五段第三句提到,泰勒本应该能够通过她所接收的信息来学习的,她可以慢慢提高自己处理对话的能力。由此可见,她是可以慢慢学会处理一些新状况的,故排除C)“她并不能应对新的情况”;文章中没有提到D)“她善于执行常规任务”,故排除。</p><p>",
+                "sort": "26",
+                "useranswer": "",
+                "rightanswer": "A",
+                "questionType": "1",
+                "stem": "What do we learn about Microsoft's ‘chatbot’ Taylor?"
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "It will be far superior to human beings.",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "It will keep improving as time goes by.",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "It will prove to be an asset to human beings.",
+                    "order": "C",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "It will be here to stay whatever the outcome.",
+                    "order": "D",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>【定位】 由题干中的Eric Schmidt 定位到文章最后一段。</p><p>C)【精析】 推理判断题。定位段提到,艾里克•斯密特认为人工智能对人类将是有利的。在人工智能方面的进步可以使人类更聪明,更有能力,“成为更好的自己”。由此可见,人工智能对于人类并不是坏事,而是人类的财富,可以为人类所用,服务于人类。故答案为C）。</p><p>【避错】 最后一段第三句指出,不管结果如何,人类都是胜利者,由此可见,无论人工智能如何发展,都不会比人类更优秀,可以排除A)“它将会比人类优秀很多”;B)“随着时间的流逝,它会不断改进”本身正确,但不是艾里克•斯密特的观点,故排除;最后一段第三句指出,不管结果如何,人类都是胜利者,而不是说人工智能都将存在,可以排除D)“不管结果如何,它都将存在”。</p><p>",
+                "sort": "27",
+                "useranswer": "",
+                "rightanswer": "C",
+                "questionType": "1",
+                "stem": " What does Eric Schmidt think of artificial intelligence?"
+              }
+            ],
+            "audioFile": "",
+            "questionType": "5",
+            "stem": "Passage Two</p><p>Questions 51 to 55 are based on the following passage.</p><p></p><p>The AlphaGo program's victory is an example of how smart computers have become.</p><p>But can artificial intelligence (AI) machines act ethically, meaning can they be honest and fair?</p><p>One example of AI is driverless cars. They are already on California roads, so it is not too soon to ask whether we can program a machine to act ethically. As driverless cars improve, they will save lives. They will make fewer mistakes than human drivers do. Sometimes, however, they will face a choice between lives. Should the cars be programmed to avoid hitting a child running across the road, even if that will put their passengers at risk? What about making a sudden turn to avoid a dog? What if the only risk is damage to the car itself, not to the passengers?</p><p>Perhaps there will be lessons to learn from driverless cars, but they are not super-intelligent beings. Teaching ethics to a machine even more intelligent than we are will be the bigger challenge.</p><p>About the same time as AlphaGo's triumph, Microsoft's ‘chatbot’ took a bad turn. The software, named Taylor, was designed to answer messages from people aged 18-24. Taylor was supposed to be able to learn from the messages she received. She was designed to slowly improve her ability to handle conversations, but some people were teaching Taylor racist ideas. When she started saying nice things about Hitler, Microsoft turned her off and deleted her ugliest messages.</p><p>AlphaGo's victory and Taylor's defeat happened at about the same time. This should be a warning to us. It is one thing to use AI within a game with clear rules and clear goals. It is something very different to use AI in the real world. The unpredictability of the real world may bring to the surface a troubling software problem.</p><p>Eric Schmidt is one of the bosses of Google, which owns AlphaGo. He thinks AI will be positive for humans. He said people will be the winner, whatever the outcome. Advances in AI will make human beings smarter, more able and “just better human beings.”</p><p>",
+            "childcount": 5
+          },
+          "questionlist": [
+            {
+              "questionKey": "629912178660184237",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "23",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912178660184244",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "24",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912178660184251",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "25",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912187250118786",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "26",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912187250118793",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "27",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            }
+          ],
+          "totalCount": "5",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "23",
+          "paperExplain": null,
+          "questionType": "5",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "629912178660184198",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "item": [
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "By building more reserves of groundwater.",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "By drawing water from the depths of the earth.",
+                    "order": "B",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "By developing more advanced drilling devices.",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "By upgrading its water distribution system.",
+                    "order": "D",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>【定位】 由题干中的California's drought crisis和 some researchers定位到首段第三句。</p><p>B)【精析】 细节辨认题。定位句指出,新的研究发现,该州的深层地下水储备可以帮助他们解决干旱危机。由此可见,从地下深处取水是解决加利福尼亚干旱危机的办法,故答案为B）。</p><p>【避错】 首段第三句提到,该州的深层地下水储备可以帮助他们解决干旱危机,可见是要开采更多的地下水,而非增多地下水的储备,可以排除A)“通过建立更多的地下水储备”;首段第四句提到,以前的钻井只能到达地下1,000英尺的深度,但是由于新的抽水实践的进行,现在,能抽取出比这更深的地下水。可见钻井技术是有所提高,但这并不是解决加利福尼亚干旱危机的直接方法,可以排除C)“通过开发更高级的钻井设备”; 首段第一句提到,加利福尼亚多年来一直面临着干旱问题,一些地方甚至需要从数百英里以外的地方抽取淡水到其配水系统。但配水系统并不能从根本上缓解淡水短缺的问题,可以排除D)“通过更新其配水系统”。</p><p>",
+                "sort": "28",
+                "useranswer": "",
+                "rightanswer": "B",
+                "questionType": "1",
+                "stem": " How could California's drought crisis be solved according to some researchers?"
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "It was deemed vital to solving the water problem.",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "It was not considered worth the expense.",
+                    "order": "B",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "It may not provide quality freshwater.",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "It is bound to gain support from the local people.",
+                    "order": "D",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>【定位】 由题干中的extracting water from deep aquifers和选项内容定位到第二段第一句。</p><p>B)【精析】 推理判断题。定位句提到,从1,000英尺以下的深度开采石油和天然气是有利可图的,但在加利福尼亚,从这个深度以下抽取地下水只在最近才变得有利可图。由定位句中的only recently in California has it become profitable可知,现在从1,000英尺以下抽取地下水也是有利可图的,所以可以推断出以前人们认为抽取深层地下水是不值得的,故答案为B）。</p><p>【避错】 第三段最后一句提到,加利福尼亚正期望这些深井可以解决他们严重的淡水短缺问题。但A)项用了过去时,意为“过去人们认为它对解决水的问题至关重要”,不符合文意,故排除;由最后一段可知,深层地下水比浅一些的地下水的含盐浓度要高,也就是说,提取的深层地下水质量不太好,这是文中直接给出的信息,不需要推断,故排除C)“它不会提供高质量的淡水”;第二段第二句提到,除了成本高,人们还有其他的一些担忧,因此不能推断出该方法一定会得到当地人们的支持,故可以排除D)“它肯定会得到当地人们的支持”。</p><p>",
+                "sort": "29",
+                "useranswer": "",
+                "rightanswer": "B",
+                "questionType": "1",
+                "stem": "What can be inferred about extracting water from deep aquifers?"
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "The sinking of land surface.",
+                    "order": "A",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "The harm to the ecosystem.",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "The damage to aquifers.",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "The change of the climate.",
+                    "order": "D",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>【定位】 由题干中的consequence和extracting water from deep underground定位到第二段第三、四句。</p><p>A)【精析】 细节辨认题。定位句指出,从这一深度取水最大的担忧就是陆地表面会逐渐下陷。随着地下水被抽走,地下留下的空余空间会被地面上的重量压实。由此可见,抽取深层地下水的一个结果就是陆地表面的下陷,故答案为A）。</p><p>【避错】 文中未提及B)“损坏生态系统”、C)“损坏地下蓄水层”和D)“改变气候”,故排除。</p><p>",
+                "sort": "30",
+                "useranswer": "",
+                "rightanswer": "A",
+                "questionType": "1",
+                "stem": "What is mentioned as a consequence of extracting water from deep underground?"
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "They run without any need for repairs.",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "They are entirely free from pollutants.",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "They are the ultimate solution to droughts.",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "They provide a steady supply of freshwater.",
+                    "order": "D",
+                    "isAnswer": "1"
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：D</p>【定位】 由题干中的deep wells和选项内容定位到第三段最后一句。</p><p>D)【精析】 推理判断题。定位句提到,地下井是更为可靠的淡水资源。加利福尼亚正期望这些深井可以解决他们严重的淡水短缺问题。由此可见,地下井可以给加州的人们提供稳定的淡水资源,故答案为D）。</p><p>【避错】 第三段第二句提到,有一些淡化海水的工厂的运营成本很高,而且可能需要不断的维修。但没有提到地下井的维修情况,故排除A)“它们运营时不需要任何的维修”;文中并未提及B)“它们完全没有污染”,故排除;第三段最后一句提到,加利福尼亚正期望这些深井可以解决他们严重的淡水短缺问题,但没有提到C)“它们是解决干旱的最终方法”,用ultimate太绝对了,故排除。</p><p>",
+                "sort": "31",
+                "useranswer": "",
+                "rightanswer": "D",
+                "questionType": "1",
+                "stem": "What does the author say about deep wells?"
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "People's health may improve with cleaner water.",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "People's water bills may be lowered considerably.",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "The cost may go up due to desalination.",
+                    "order": "C",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "They may be exhausted sooner or later.",
+                    "order": "D",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>【定位】 由题干中的deep aquifers are used as water sources定位到第四段第一、二句。</p><p>C)【精析】 推理判断题。定位句指出,这些水源的一个问题就是深层地下水比浅一些的地下水的含盐浓度要高。这就意味着从一些井里抽取上来的水可能需要进行脱盐,从而会增加成本。因此,要将这些地下水作为淡水资源势必会增加成本,故答案为C）。</p><p>【避错】 文中没有提及A)“用了更为干净的水人们的健康得到改善”,故排除;B)“人们的用水账单会大幅减少”,这与第四段第二句的观点矛盾,故排除;第四段第四句提到,现在,对于地下淡水储存量的新估计达到了27,000亿立方米,说明地下水含量极其丰富,D)“它们迟早会枯竭”不符合文意,故排除。</p><p></p><p>",
+                "sort": "32",
+                "useranswer": "",
+                "rightanswer": "C",
+                "questionType": "1",
+                "stem": "What may happen when deep aquifers are used as water sources?"
+              }
+            ],
+            "audioFile": "",
+            "questionType": "5",
+            "stem": "Passage One</p><p>Questions 46 to 50 are based on the following passage.</p><p>California has been facing a drought for many years now, with certain areas even having to pump freshwater hundreds of miles to their distribution system. The problem is growing as the population of the state continues to expand. New research has found deep water reserves under the state which could help solve their drought crisis. Previous drilling of wells could only reach depths of 1,000 feet, but due to new pumping practices, water deeper than this can now be extracted (抽取). The team at Stanford investigated the aquifers (地下蓄水层) below this depth and found that reserves may be triple what was previously thought.</p><p></p><p>It is profitable to drill to depths more than 1,000 feet for oil and gas extraction, but only recently in California has it become profitable to pump water from this depth. The aquifers range from 1,000 to 3,000 feet below the ground, which means that pumping will be expensive and there are other concerns. The biggest concern of pumping out water from this deep is the gradual settling down of the land surface. As the water is pumped out, the vacant space left is compacted by the weight of the earth above.</p><p></p><p>Even though pumping from these depths is expensive, it is still cheaper than desalinating (脱盐) the ocean water in the largely coastal state. Some desalination plants exist where feasible, but they are costly to run and can need constant repairs. Wells are much more reliable sources of freshwater, and California is hoping that these deep wells may be the answer to their severe water shortage.</p><p></p><p>One problem with these sources is that the deep water also has a higher level of salt than shallower aquifers. This means that some wells may even need to undergo desalination after extraction, thus increasing the cost. Research from the exhaustive study of groundwater from over 950 drilling logs has just been published. New estimates of the water reserves now go up to 2,700 billion cubic meters of freshwater.</p><p>",
+            "childcount": 5
+          },
+          "questionlist": [
+            {
+              "questionKey": "629912178660184200",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "28",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912178660184207",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "29",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912178660184214",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "30",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912178660184221",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "31",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912178660184228",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "32",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            }
+          ],
+          "totalCount": "5",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "28",
+          "paperExplain": null,
+          "questionType": "5",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "629912152890380472",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "item": [
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "A",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "B",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "C",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "D",
+                    "order": "D",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "E",
+                    "order": "E",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "F",
+                    "order": "F",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "G",
+                    "order": "G",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "H",
+                    "order": "H",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "I",
+                    "order": "I",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "J",
+                    "order": "J",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "K",
+                    "order": "K",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：D</p>【定位】 由题干中的More than half、Americans和factory-produced定位到文章D)段第二句。</p><p>D)【精析】 同义转述题。定位句提到,在美国,超过50％的食品都是加工食品。题干中的More than half of the food对应原文中的over 50 percent of our food,题干中的factory-produced是对原文中processed food的同义转述,故本题正确答案为D)。</p><p>",
+                "sort": "33",
+                "useranswer": "",
+                "rightanswer": "D",
+                "questionType": "1",
+                "stem": " More than half of the food Americans eat is factory-produced."
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "A",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "B",
+                    "order": "B",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "C",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "D",
+                    "order": "D",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "E",
+                    "order": "E",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "F",
+                    "order": "F",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "G",
+                    "order": "G",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "H",
+                    "order": "H",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "I",
+                    "order": "I",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "J",
+                    "order": "J",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "K",
+                    "order": "K",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>【定位】 由题干中的program、doctors和stores定位到B)段。</p><p>B)【精析】 细节归纳题。定位段首句提到,斯科特很高兴从身为附近的玛丽＆迪克•艾伦糖尿病中心的项目主任的医生那里得到食物方面的建议。接着后一句提到,该中心的“和你的医生一起购物”项目把医生派到食品杂货店,与任何报名申请这项服务的患者以及周围碰巧遇到问题的其他任何购物者会面。题干中的doctors to give advice to 是对原文中get food advice from a physician以及meet with any patients...other shoppers的概括归纳,题干中的assigns doctors...in food stores是对原文中sends doctors to the grocery store的同义转述,故本题答案为B)。</p><p>",
+                "sort": "34",
+                "useranswer": "",
+                "rightanswer": "B",
+                "questionType": "1",
+                "stem": "There is a special program that assigns doctors to give advice to shoppers in food stores."
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "A",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "B",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "C",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "D",
+                    "order": "D",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "E",
+                    "order": "E",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "F",
+                    "order": "F",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "G",
+                    "order": "G",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "H",
+                    "order": "H",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "I",
+                    "order": "I",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "J",
+                    "order": "J",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "K",
+                    "order": "K",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：G</p>【定位】 由题干中的growing、research和illnesses定位到文章G)段第二句。</p><p>G)【精析】 细节归纳题。定位句提到,研究结果越来越显示出食物治疗或逆转疾病的力量。题干中的There is growing evidence from research是对原文中Research findings increasingly show的同义转述,题干中的food helps patients recover from various illnesses是对原文中the power of food to treat or reverse diseases的概括归纳,故本题正确答案为G)。</p><p>",
+                "sort": "35",
+                "useranswer": "",
+                "rightanswer": "G",
+                "questionType": "1",
+                "stem": "There is growing evidence from research that food helps patients recover from various illnesses."
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "A",
+                    "order": "A",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "B",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "C",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "D",
+                    "order": "D",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "E",
+                    "order": "E",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "F",
+                    "order": "F",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "G",
+                    "order": "G",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "H",
+                    "order": "H",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "I",
+                    "order": "I",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "J",
+                    "order": "J",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "K",
+                    "order": "K",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>【定位】 由题干中的prepared quickly and easily定位到文章A)段最后一句。</p><p>A)【精析】 同义转述题。定位句提到,准备果汁挺快、挺简单的;可以在前一天晚上把冷藏的水果拿出来,第二天早上把它做好。题干中的prepared quickly and easily是对原文中quick and easy to prepare的同义转述,故本题正确答案为A)。</p><p>",
+                "sort": "36",
+                "useranswer": "",
+                "rightanswer": "A",
+                "questionType": "1",
+                "stem": "A healthy breakfast can be prepared quickly and easily."
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "A",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "B",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "C",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "D",
+                    "order": "D",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "E",
+                    "order": "E",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "F",
+                    "order": "F",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "G",
+                    "order": "G",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "H",
+                    "order": "H",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "I",
+                    "order": "I",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "J",
+                    "order": "J",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "K",
+                    "order": "K",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：I</p>【定位】 由题干中的prepare healthy food和change their life定位到文章I)段第三句。</p><p>I)【精析】 细节归纳题。定位句提到,教给人们哪些食物是健康的以及如何准备实际上可以改变患者的生活。题干中的Training a patient to prepare healthy food是对原文中teaching people about which foods are healthy and how to prepare them的概括归纳,题干中的change their life是对原文中transform a patient's life的同义转述,故本题答案为I)。</p><p>",
+                "sort": "37",
+                "useranswer": "",
+                "rightanswer": "I",
+                "questionType": "1",
+                "stem": "Training a patient to prepare healthy food can change their life."
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "A",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "B",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "C",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "D",
+                    "order": "D",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "E",
+                    "order": "E",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "F",
+                    "order": "F",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "G",
+                    "order": "G",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "H",
+                    "order": "H",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "I",
+                    "order": "I",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "J",
+                    "order": "J",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "K",
+                    "order": "K",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：F</p>【定位】 由题干中的prescribes food、teaches patients和 how to cook it定位到F)段第三句。</p><p>F)【精析】 同义转述题。定位句提到,该项目将为患者提供几袋针对其病情的处方食物,并提供如何烹饪的强化培训。题干中的prescribes food for treatment是对原文中food prescribed for their condition的同义转述,题干中的teaches patients how to cook it是对原文中intensive training in how to cook it的同义转述,故本题正确答案为F)。</p><p>",
+                "sort": "38",
+                "useranswer": "",
+                "rightanswer": "F",
+                "questionType": "1",
+                "stem": "One food-as-medicine program not only prescribes food for treatment but teaches patients how to cook it."
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "A",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "B",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "C",
+                    "order": "C",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "D",
+                    "order": "D",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "E",
+                    "order": "E",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "F",
+                    "order": "F",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "G",
+                    "order": "G",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "H",
+                    "order": "H",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "I",
+                    "order": "I",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "J",
+                    "order": "J",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "K",
+                    "order": "K",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>【定位】 由题干中的Scott、not keen和a waste of time定位到文章C)段。</p><p>C)【精析】 细节归纳题。定位段第二句提到,斯科特问是不是要自己动手做饭,一想到这可能需要多长时间,结果孩子们却拒绝食用,她的热情就消失了。题干中的Scott is not keen是对原文中her enthusiasm fading的同义转述,题干中的simply be a waste of time是对原文中at the thought of how long that might take, just to have her kids reject it的概括归纳,故本题正确答案为C)。</p><p>",
+                "sort": "39",
+                "useranswer": "",
+                "rightanswer": "C",
+                "questionType": "1",
+                "stem": "Scott is not keen on cooking food herself, thinking it would simply be a waste of time."
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "A",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "B",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "C",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "D",
+                    "order": "D",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "E",
+                    "order": "E",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "F",
+                    "order": "F",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "G",
+                    "order": "G",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "H",
+                    "order": "H",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "I",
+                    "order": "I",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "J",
+                    "order": "J",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "K",
+                    "order": "K",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：J</p>【定位】 由题干中的Diabetes、advised和plant-based food定位到文章J)段最后一句。</p><p>J)【精析】 同义转述题。定位句提到,一般来说,许多生活方式医学专业的医生建议以植物为基础的饮食——特别是糖尿病或其他炎症性疾病患者。题干中的Diabetes patients are advised to eat more plant-based food是对原文中的recommend a plant-based diet—particularly for people with diabetes的同义转述,故本题正确答案为J)。</p><p>",
+                "sort": "40",
+                "useranswer": "",
+                "rightanswer": "J",
+                "questionType": "1",
+                "stem": "Diabetes patients are advised to eat more plant-based food."
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "A",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "B",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "C",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "D",
+                    "order": "D",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "E",
+                    "order": "E",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "F",
+                    "order": "F",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "G",
+                    "order": "G",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "H",
+                    "order": "H",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "I",
+                    "order": "I",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "J",
+                    "order": "J",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "K",
+                    "order": "K",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：E</p>【定位】 由题干中的Using food as medicine和making headway定位到文章E)段第二句。</p><p>E)【精析】 同义转述题。定位句提到,食物即药物运动已经存在了几十年,但随着医生和医疗机构不再仅仅依靠药物,而是将食物作为治疗的正式部分,这项运动正在取得进展。题干中的Using food as medicine is no novel idea是对原文中The food-as-medicine movement has been around for decades的同义转述,题干中的making headway是对原文中making progress的同义转述,故本题正确答案为E)。</p><p>",
+                "sort": "41",
+                "useranswer": "",
+                "rightanswer": "E",
+                "questionType": "1",
+                "stem": "Using food as medicine is no novel idea, but the movement is making headway these days."
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "A",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "B",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "C",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "D",
+                    "order": "D",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "E",
+                    "order": "E",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "F",
+                    "order": "F",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "G",
+                    "order": "G",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "H",
+                    "order": "H",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "I",
+                    "order": "I",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "J",
+                    "order": "J",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "K",
+                    "order": "K",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：G</p>【定位】 由题干中的Americans' high rates和the way they eat定位到文章G)段倒数第二句。</p><p>G)【精析】 细节归纳题。定位句提到,美国人饮食中的盐、糖、肥肉和加工食品导致了该国肥胖症、糖尿病和心脏病的高发病率。题干中的various illnesses是对原文中obesity, diabetes and heart disease的概括归纳,题干中的result from the way they eat是对原文中the salt, sugar, fat and processed foods in the American diet contribute to的概括归纳,故答案为G)。</p><p>",
+                "sort": "42",
+                "useranswer": "",
+                "rightanswer": "G",
+                "questionType": "1",
+                "stem": "Americans' high rates of various illnesses result from the way they eat.</p><p></p><p>"
+              }
+            ],
+            "audioFile": "",
+            "questionType": "5",
+            "stem": "Food-as-Medicine Movement Is Witnessing Progress</p><p>A) Several times a month, you can find a doctor in the aisles of Ralph's market in Huntington Beach, California, wearing a white coat and helping people learn about food. On one recent day, this doctor was Daniel Nadeau, wandering the cereal aisle with Allison Scott, giving her some idea on how to feed kids who persistently avoid anything that is healthy. “Have you thought about trying fresh juices in the morning?” he asks her. “The frozen oranges and apples are a little cheaper, and fruits are really good for the brain. Juices are quick and easy to prepare; you can take the frozen fruit out the night before and have it ready the next morning.”</p><p></p><p>B)Scott is delighted to get food advice from a physician who is program director of the nearby Mary and Dick Allen Diabetes Center, part of the St. Joseph Hoag Health alliance. The center's ‘Shop with Your Doc’ program sends doctors to the grocery store to meet with any patients who sign up for the service, plus any other shoppers who happen to be around with questions.</p><p></p><p>C)Nadeau notices the pre-made macaroni (通心粉) -and-cheese boxes in Scott's shopping cart and suggests she switch to whole grain macaroni and real cheese. “So I'd have to make it?” she asks, her enthusiasm fading at the thought of how long that might take, just to have her kids reject it. “I'm not sure they'd eat it. They just won't eat it.”</p><p></p><p>D) Nadeau says sugar and processed foods are big contributors to the rising diabetes rates among children. “In America, over 50 percent of our food is processed food,” Nadeau tells her. “And only 5 percent of our food is plant-based food. I think we should try to reverse that.” Scott agrees to try more fruit juices for the kids and to make real macaroni and cheese. Score one point for the doctor, zero for diabetes.</p><p></p><p>E) Nadeau is part of a small revolution developing across California. The food-as-medicine movement has been around for decades, but it's making progress as physicians and medical institutions make food a formal part of treatment, rather than relying solely on medications (药物). By prescribing nutritional changes or launching programs such as ‘Shop with Your Doc’, they are trying to prevent, limit or even reverse disease by changing what patients eat. “There's no question people can take things a long way toward reversing diabetes, reversing high blood pressure, even preventing cancer by food choices,” Nadeau says.</p><p></p><p>F) In the big picture, says Dr. Richard Afable, CEO and president of St. Joseph Hoag Health, medical institutions across the state are starting to make a philosophical switch to becoming a health organization, not just a health care organization. That feeling echoes the beliefs of the Therapeutic Food Pantry program at Zuckerberg San Francisco General Hospital, which completed its pilot phase and is about to expand on an ongoing basis to five clinic sites throughout the city. The program will offer patients several bags of food prescribed for their condition, along with intensive training in how to cook it. “We really want to link food and medicine, and not just give away food,” says Dr. Rita Nguyen, the hospital's medical director of Healthy Food Initiatives. “We want people to understand what they're eating, how to prepare it, the role food plays in their lives.”</p><p>G) In Southern California, Loma Linda University School of Medicine is offering specialized training for its resident physicians in Lifestyle Medicine—that is a formal specialty in using food to treat disease. Research findings increasingly show the power of food to treat or reverse diseases, but that does not mean that diet alone is always the solution, or that every illness can benefit substantially from dietary changes. Nonetheless, physicians say that they look at the collective data and a clear picture emerges: that the salt, sugar, fat and processed foods in the American diet contribute to the nation's high rates of obesity, diabetes and heart disease. According to the World Health Organization, 80 percent of deaths from heart disease and stroke are caused by high blood pressure, tobacco use, elevated cholesterol and low consumption of fruits and vegetables.</p><p>H) “It's a different paradigm (范式) of how to treat disease,” says Dr. Brenda Rea, who helps run the family and preventive medicine residency program at Loma Linda University School of Medicine. The lifestyle medicine specialty is designed to train doctors in how to prevent and treat disease, in part, by changing patients' nutritional habits. The medical center and school at Loma Linda also has a food cupboard and kitchen for patients. This way, patients not only learn about which foods to buy, but also how to prepare them at home.</p><p>I) Many people don't know how to cook, Rea says, and they only know how to heat things up. That means depending on packaged food with high salt and sugar content. So teaching people about which foods are healthy and how to prepare them, she says, can actually transform a patient's life. And beyond that, it might transform the health and lives of that patient's family. “What people eat can be medicine or poison,” Rea says. “As a physician, nutrition is one of the most powerful things you can change to reverse the effects of long-term disease.”</p><p>J) Studies have explored evidence that dietary changes can slow inflammation (炎症), for example, or make the body inhospitable to cancer cells. In general, many lifestyle medicine physicians recommend a plant-based diet—particularly for people with diabetes or other inflammatory conditions.</p><p>K) “As what happened with tobacco, this will require a cultural shift, but that can happen,” says Nguyen. “In the same way physicians used to smoke, and then stopped smoking and were able to talk to patients about it, I think physicians can have a bigger voice in it.”</p><p>",
+            "childcount": 10
+          },
+          "questionlist": [
+            {
+              "questionKey": "629912152890380474",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "33",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912161480315016",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "34",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912161480315030",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "35",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912161480315044",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "36",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912161480315058",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "37",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912170070249600",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "38",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912170070249614",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "39",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912170070249628",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "40",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912170070249642",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "41",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912170070249656",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "42",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            }
+          ],
+          "totalCount": "10",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "33",
+          "paperExplain": null,
+          "questionType": "5",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "629912135710511234",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "item": [
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "ability",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "associated",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "consciously",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "constant",
+                    "order": "D",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "control",
+                    "order": "E",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "damage",
+                    "order": "F",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "described",
+                    "order": "G",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "equals",
+                    "order": "H",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "exclusively",
+                    "order": "I",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "innovated",
+                    "order": "J",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "regularly",
+                    "order": "K",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "relates",
+                    "order": "L",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "sources",
+                    "order": "M",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "undermine",
+                    "order": "N",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "vehicles",
+                    "order": "O",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：F</p>【考点】 名词辨析题。</p><p>F)【语法判断】 空格前面是形容词最高级the most serious,后面为现在分词结构occurring in the developing world作后置定语,因此空格处需要填入名词。</p><p>【语义判断】 本句前半部分提到,就福利成本而言,空气污染每年造成多于5万亿美元的全球经济损失。由此可知,对于发展中国家而言,空气污染将造成最为严重的影响。因此,空格处需要填入一个表示“不良影响”或“损失”的名词。由此确定名词damage“损害”为本题答案。</p><p>",
+                "sort": "43",
+                "useranswer": "",
+                "rightanswer": "F",
+                "questionType": "1",
+                "stem": ""
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "ability",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "associated",
+                    "order": "B",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "consciously",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "constant",
+                    "order": "D",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "control",
+                    "order": "E",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "damage",
+                    "order": "F",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "described",
+                    "order": "G",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "equals",
+                    "order": "H",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "exclusively",
+                    "order": "I",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "innovated",
+                    "order": "J",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "regularly",
+                    "order": "K",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "relates",
+                    "order": "L",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "sources",
+                    "order": "M",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "undermine",
+                    "order": "N",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "vehicles",
+                    "order": "O",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>【考点】 固定用法题。</p><p>B)【语法判断】 空格前面为名词词组a number of costs,后面为介宾结构with air pollution。通过分析句子结构可知,空格处所填词应与后面的介宾结构一起作前面名词词组的后置定语。因此,空格处需要填入形容词或动词的分词形式。</p><p>【语义判断】 文章首段提到,空气污染每年造成多于5万亿美元的全球经济损失。本句承接首段指出,该数据包含了一些费用。因此,空格处所填词应与后面的with air pollution搭配,共同表达“与空气污染相关”的意思。备选词中符合以上要求的只有associated。be associated with...意为“与……相关”,由此确定associated为答案。 本句完整形式为“The figures include a number of costs which are associated with air pollution.”原文中省略了which are。</p><p>",
+                "sort": "44",
+                "useranswer": "",
+                "rightanswer": "B",
+                "questionType": "1",
+                "stem": ""
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "ability",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "associated",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "consciously",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "constant",
+                    "order": "D",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "control",
+                    "order": "E",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "damage",
+                    "order": "F",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "described",
+                    "order": "G",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "equals",
+                    "order": "H",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "exclusively",
+                    "order": "I",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "innovated",
+                    "order": "J",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "regularly",
+                    "order": "K",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "relates",
+                    "order": "L",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "sources",
+                    "order": "M",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "undermine",
+                    "order": "N",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "vehicles",
+                    "order": "O",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：M</p>【考点】 名词辨析题。</p><p>M)【语法判断】 空格前面为动词includes,后面有介词like表示列举,因此空格处需要填入名词来作宾语。</p><p>【语义判断】 文章围绕air pollution展开,本句中提到Indoor pollution,并列举了两种户内空气污染的情况是“家用取暖和家用烹饪”,因此空格处应填入名词且意思上与家用取暖和家用烹饪有关。根据生活常识可知,取暖与烹饪均会产生一定的空气污染。因此,空格处需要填入一个表示“原因,根源”的名词。由此确定名词sources“根源”为本题答案。 </p><p>",
+                "sort": "45",
+                "useranswer": "",
+                "rightanswer": "M",
+                "questionType": "1",
+                "stem": ""
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "ability",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "associated",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "consciously",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "constant",
+                    "order": "D",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "control",
+                    "order": "E",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "damage",
+                    "order": "F",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "described",
+                    "order": "G",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "equals",
+                    "order": "H",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "exclusively",
+                    "order": "I",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "innovated",
+                    "order": "J",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "regularly",
+                    "order": "K",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "relates",
+                    "order": "L",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "sources",
+                    "order": "M",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "undermine",
+                    "order": "N",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "vehicles",
+                    "order": "O",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：D</p>【考点】 形容词辨析题。</p><p>D)【语法判断】 空格前为系动词remained,后为介词短语,因此空格处应填入形容词,作系动词remained的表语。</p><p>【语义判断】 本句末尾处使用介词despite,表示让步,表达了“虽然家用取暖和家用烹饪这方面有所改善”。因此,本句前面部分在意思上应该与末尾的介宾结构相反,所以空格处需要填入一个与remained一起表示户内空气污染“依旧存在”的形容词。由此确定形容词constant“持续不断的”为本题答案。</p><p>",
+                "sort": "46",
+                "useranswer": "",
+                "rightanswer": "D",
+                "questionType": "1",
+                "stem": ""
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "ability",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "associated",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "consciously",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "constant",
+                    "order": "D",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "control",
+                    "order": "E",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "damage",
+                    "order": "F",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "described",
+                    "order": "G",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "equals",
+                    "order": "H",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "exclusively",
+                    "order": "I",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "innovated",
+                    "order": "J",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "regularly",
+                    "order": "K",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "relates",
+                    "order": "L",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "sources",
+                    "order": "M",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "undermine",
+                    "order": "N",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "vehicles",
+                    "order": "O",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：G</p>【考点】 动词辨析题。</p><p>G)【语法判断】 空格前面为人名Chris Murray,空格后面为代词it,因此判断空格处所填词为动词,且该动词能与宾语it后面的介词as搭配,an “urgent call to action”则为it的宾语补足语。</p><p>【语义判断】 本句指出,上述讨论的情况是一种“紧急呼吁采取行动”的危急状况。备选动词中,described意为“描绘,描述”,可与as搭配,符合句意,故为答案。described...as...意为“将……描述为……”。</p><p>",
+                "sort": "47",
+                "useranswer": "",
+                "rightanswer": "G",
+                "questionType": "1",
+                "stem": ""
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "ability",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "associated",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "consciously",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "constant",
+                    "order": "D",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "control",
+                    "order": "E",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "damage",
+                    "order": "F",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "described",
+                    "order": "G",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "equals",
+                    "order": "H",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "exclusively",
+                    "order": "I",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "innovated",
+                    "order": "J",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "regularly",
+                    "order": "K",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "relates",
+                    "order": "L",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "sources",
+                    "order": "M",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "undermine",
+                    "order": "N",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "vehicles",
+                    "order": "O",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：E</p>【考点】 名词辨析题。</p><p>E)【语法判断】 空格前有动词have和形容词little,所以空格处需要填入名词。</p><p>【语义判断】 本句指出,导致人们过早死亡的一个风险因素就是我们吸入的空气,而空气是人类生存所必需的客观条件,人们无法操控。因此,空格处应填入一个表示“操控”的名词,故E) control“控制”为本题的答案。</p><p>",
+                "sort": "48",
+                "useranswer": "",
+                "rightanswer": "E",
+                "questionType": "1",
+                "stem": ""
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "ability",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "associated",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "consciously",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "constant",
+                    "order": "D",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "control",
+                    "order": "E",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "damage",
+                    "order": "F",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "described",
+                    "order": "G",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "equals",
+                    "order": "H",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "exclusively",
+                    "order": "I",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "innovated",
+                    "order": "J",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "regularly",
+                    "order": "K",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "relates",
+                    "order": "L",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "sources",
+                    "order": "M",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "undermine",
+                    "order": "N",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "vehicles",
+                    "order": "O",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：H</p>【考点】 动词辨析题。</p><p>H)【语法判断】 通过分析句子结构可知,空格位于where引导的定语从句中,空格前为名词lost-labor income作主语,空格后为副词nearly和名词结构1% of GDP,所以该从句缺少谓语动词,再根据本句前半部分的时态,空格处应填入动词的第三人称单数形式。</p><p>【语义判断】 本句前半部分指出,空气污染产生的影响在发展中国家最为严重。空格所在从句进一步说明严重的程度。又因为从句的主语和宾语均为经济学名词,因此空格处填入equals“相当于”符合句意,意为“劳动力损失所带来的收入损失相当于几乎1%的国内生产总值”,表明空气污染产生的影响之严重。</p><p>",
+                "sort": "49",
+                "useranswer": "",
+                "rightanswer": "H",
+                "questionType": "1",
+                "stem": ""
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "ability",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "associated",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "consciously",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "constant",
+                    "order": "D",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "control",
+                    "order": "E",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "damage",
+                    "order": "F",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "described",
+                    "order": "G",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "equals",
+                    "order": "H",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "exclusively",
+                    "order": "I",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "innovated",
+                    "order": "J",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "regularly",
+                    "order": "K",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "relates",
+                    "order": "L",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "sources",
+                    "order": "M",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "undermine",
+                    "order": "N",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "vehicles",
+                    "order": "O",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：K</p>【考点】 副词辨析题。</p><p>K)【语法判断】 空格前面是代词they,后面为动词experience,因此空格处需要填入副词以修饰其后的动词。</p><p>【语义判断】 前一句提到,在一些发展中国家,劳动力损失所带来的收入损失相当于几乎1%的国内生产总值。空格所在句进一步解释造成劳动力损失的原因:在低收入和中等收入的国家里,大概有十分之九的人们在居住的地方经受着危险的户外空气污染。因此,空格处需要填入一个表示“长期以来,一直这样”的副词,修饰experience。由此确定副词regularly“经常”为本题答案。</p><p>",
+                "sort": "50",
+                "useranswer": "",
+                "rightanswer": "K",
+                "questionType": "1",
+                "stem": ""
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "ability",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "associated",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "consciously",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "constant",
+                    "order": "D",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "control",
+                    "order": "E",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "damage",
+                    "order": "F",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "described",
+                    "order": "G",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "equals",
+                    "order": "H",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "exclusively",
+                    "order": "I",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "innovated",
+                    "order": "J",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "regularly",
+                    "order": "K",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "relates",
+                    "order": "L",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "sources",
+                    "order": "M",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "undermine",
+                    "order": "N",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "vehicles",
+                    "order": "O",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：I</p>【考点】 副词辨析题。</p><p>I)【语法判断】 空格位于be limited to这个固定用法中，且本句基本结构完整,因此空格处需要填入副词修饰limited。</p><p>【语义判断】 前一段提到了空气污染给发展中国家带来的影响。空格所在句之后则阐述了空气污染对发达国家的影响。因此,空格处需要填入一个与not limited一起表示“不仅仅局限于”的副词,表明这一情况并非只发生在发展中国家。由此确定副词exclusively“仅仅,唯独”为本题答案。</p><p>",
+                "sort": "51",
+                "useranswer": "",
+                "rightanswer": "I",
+                "questionType": "1",
+                "stem": ""
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "ability",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "associated",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "consciously",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "constant",
+                    "order": "D",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "control",
+                    "order": "E",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "damage",
+                    "order": "F",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "described",
+                    "order": "G",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "equals",
+                    "order": "H",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "exclusively",
+                    "order": "I",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "innovated",
+                    "order": "J",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "regularly",
+                    "order": "K",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "relates",
+                    "order": "L",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "sources",
+                    "order": "M",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "undermine",
+                    "order": "N",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "vehicles",
+                    "order": "O",
+                    "isAnswer": "1"
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：O</p>【考点】 名词辨析题。</p><p>O)【语法判断】 空格前为名词diesel,空格后为谓语动词have become more common,所以空格处需要填入名词的复数形式,与名词diesel搭配构成句子的主语。</p><p>【语义判断】 通过上下文可知,本段的大意是空气污染对发达国家也产生了很大影响,因为近年来,欧洲国家柴油车辆的日益普遍,使得欧洲发达国家也面临着严重的空气污染。因此,可以确定名词vehicles“交通工具,车辆”为本题答案。</p><p>",
+                "sort": "52",
+                "useranswer": "",
+                "rightanswer": "O",
+                "questionType": "1",
+                "stem": ""
+              }
+            ],
+            "audioFile": "",
+            "questionType": "5",
+            "stem": "Millions die early from air pollution each year. Air pollution costs the global economy more than $5 trillion annually in welfare costs, with the most serious 26 occurring in the developing world.</p><p>The figures include a number of costs 27 with air pollution. Lost income alone amounts to $225 billion a year. </p><p>The report includes both indoor and outdoor air pollution. Indoor pollution, which includes 28 like home heating and cooking, has remained 29 over the past several decades despite advances in the area. Levels of outdoor pollution have grown rapidly along with rapid growth in industry and transportation.</p><p>Director of Institute for Health Metrics and Evaluation Chris Murray 30 it as an “urgent call to action.” “One of the risk factors for premature deaths is the air we breathe, over which individuals have little 31,” he said.</p><p>The effects of air pollution are worst in the developing world, where in some places lost-labor income 32 nearly 1% of GDP. Around 9 in 10 people in low- and middle-income countries live in places where they 33 experience dangerous levels of outdoor air pollution.</p><p>But the problem is not limited 34 to the developing world. Thousands die prematurely in the U.S. as a result of related illnesses. In many European countries, where diesel (柴油) 35 have become more common in recent years, that number reaches tens of thousands.</p><p>",
+            "childcount": 10
+          },
+          "questionlist": [
+            {
+              "questionKey": "629912135710511236",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "43",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912135710511254",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "44",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912135710511272",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "45",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912135710511290",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "46",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912144300445836",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "47",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912144300445854",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "48",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912144300445872",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "49",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912152890380418",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "50",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912152890380436",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "51",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912152890380454",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "52",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            }
+          ],
+          "totalCount": "10",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "43",
+          "paperExplain": null,
+          "questionType": "5",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "629912127120576675",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "item": [
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "Anxious and depressed.",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "Contented and relieved.",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "Excited but somewhat sad.",
+                    "order": "C",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "Proud but a bit nervous.",
+                    "order": "D",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>C)【精析】 事实细节题。短文开头提到,孩子第一次上学时,父母的心情是兴奋而又带有伤感。",
+                "sort": "53",
+                "useranswer": "",
+                "rightanswer": "C",
+                "questionType": "1",
+                "stem": "选择题22"
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "It is becoming parents' biggest concern.",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "It is gaining increasing public attention.",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "It depends on their parents for success.",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "It starts the moment they are born.",
+                    "order": "D",
+                    "isAnswer": "1"
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：D</p>D)【精析】 事实细节题。短文提到,孩子上学是一次新的探险,但并不是教育的开端,因为孩子从出生就接受父母的教育。",
+                "sort": "54",
+                "useranswer": "",
+                "rightanswer": "D",
+                "questionType": "1",
+                "stem": "选择题23"
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "Set a good example for them to follow.",
+                    "order": "A",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "Read books and magazines to them.",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "Help them to learn by themselves.",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "Choose the right school for them.",
+                    "order": "D",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>A)【精析】 细节推断题。短文提到,孩子经常很自然地模仿父母,所以重要的是家长要被孩子们看到是在阅读与享受书籍、报纸和杂志,而不是沉浸在屏幕中。由此推断,孩子教育成功的关键是父母树立好的榜样。",
+                "sort": "55",
+                "useranswer": "",
+                "rightanswer": "A",
+                "questionType": "1",
+                "stem": "选择题24"
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "Their intelligence.",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "Their home life.",
+                    "order": "B",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "The effort they put in learning.",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "The quality of their school.",
+                    "order": "D",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>B)【精析】 事实细节题。短文结尾处提到,不管学校的质量如何,孩子的家庭生活是至关重要的,这是他们学业成功的决定性因素。",
+                "sort": "56",
+                "useranswer": "",
+                "rightanswer": "B",
+                "questionType": "1",
+                "stem": "选择题25"
+              }
+            ],
+            "audioFile": "http://voddev.sparke.cn/vod_dev/video/english/audio/mp3:0abe479b428b36985d1af688726e3e3c.MP3/playlist.m3u8",
+            "questionType": "5",
+            "stem": "Questions 22 to 25 are based on the recording you have just heard.",
+            "childcount": 4
+          },
+          "questionlist": [
+            {
+              "questionKey": "629912127120576677",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "53",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912127120576684",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "54",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912127120576691",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "55",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912127120576698",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "56",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            }
+          ],
+          "totalCount": "4",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "53",
+          "paperExplain": null,
+          "questionType": "5",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "629912127120576652",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "item": [
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "It is the cleverest cat in the world.",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "It is the largest cat in Africa.",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "It is an unusual cross breed.",
+                    "order": "C",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "It is a large-sized wild cat.",
+                    "order": "D",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>C)【精析】 事实细节题。短文开头提到,萨凡纳猫是家养猫和中型非洲野猫的杂交品种,这种不同寻常的杂交猫在90年代末期受到饲养者的欢迎。",
+                "sort": "57",
+                "useranswer": "",
+                "rightanswer": "C",
+                "questionType": "1",
+                "stem": "选择题19"
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "They are as loyal as dogs.",
+                    "order": "A",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "They have unusually long tails.",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "They are fond of sleeping in cabinets.",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "They know how to please their owners.",
+                    "order": "D",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>A)【精析】 事实细节题。短文提到了萨凡纳猫的一些特点,如体型较高、像狗一样忠诚、善于跳跃、好奇心强烈等。",
+                "sort": "58",
+                "useranswer": "",
+                "rightanswer": "A",
+                "questionType": "1",
+                "stem": "选择题20"
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "They shake their front paws.",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "They teach them to dive.",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "They shower with them.",
+                    "order": "C",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "They shout at them.",
+                    "order": "D",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>C)【精析】 事实细节题。短文末尾提到,一些萨凡纳猫并不怕水,有些饲养者甚至和它们一起淋浴。",
+                "sort": "59",
+                "useranswer": "",
+                "rightanswer": "C",
+                "questionType": "1",
+                "stem": "选择题21"
+              }
+            ],
+            "audioFile": "http://voddev.sparke.cn/vod_dev/video/english/audio/mp3:0abe479b428b36985d1af688726e3e3c.MP3/playlist.m3u8",
+            "questionType": "5",
+            "stem": "Questions 19 to 21are based on the recording you have just heard.",
+            "childcount": 3
+          },
+          "questionlist": [
+            {
+              "questionKey": "629912127120576654",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "57",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912127120576661",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "58",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912127120576668",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "59",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            }
+          ],
+          "totalCount": "3",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "57",
+          "paperExplain": null,
+          "questionType": "5",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "629912118530642101",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "item": [
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "They help spread the latest technology.",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "They greatly enrich people's leisure life.",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "They provide residents with the resources needed.",
+                    "order": "C",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "They allow free access to digital books and videos.",
+                    "order": "D",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>C)【精析】 细节推断题。短文开头提到,皮尤研究中心2016年对1,000多名美国人进行调查,发现美国人继续对当地的公共图书馆的现状持肯定态度。四分之三的受访者认为图书馆提供了他们所需的资源。",
+                "sort": "60",
+                "useranswer": "",
+                "rightanswer": "C",
+                "questionType": "1",
+                "stem": "选择题16"
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "By helping them find jobs.",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "By inspiring their creativity.",
+                    "order": "B",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "By keeping them off the streets.",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "By providing a place of relaxation.",
+                    "order": "D",
+                    "isAnswer": ""
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>B)【精析】 事实细节题。短文中提到,大约一半的人认为图书馆在帮助激发年轻人的创造力方面对他们的社区作出了“很大”贡献,即图书馆有利于激发年轻人的创造力。",
+                "sort": "61",
+                "useranswer": "",
+                "rightanswer": "B",
+                "questionType": "1",
+                "stem": "选择题17"
+              },
+              {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "Their interaction with teenagers proved fruitful.",
+                    "order": "A",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "They used libraries less often than teenagers.",
+                    "order": "B",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "They tended to visit libraries regularly.",
+                    "order": "C",
+                    "isAnswer": ""
+                  },
+                  {
+                    "imgs": "",
+                    "content": "Their number increased modestly.",
+                    "order": "D",
+                    "isAnswer": "1"
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：D</p>D)【精析】 事实细节题。短文最后提到,调查显示,大约48%的成年人在过去的12个月中曾专门去过图书馆,这一比例比2015年底的44%略有提高。",
+                "sort": "62",
+                "useranswer": "",
+                "rightanswer": "D",
+                "questionType": "1",
+                "stem": "选择题18"
+              }
+            ],
+            "audioFile": "http://voddev.sparke.cn/vod_dev/video/english/audio/mp3:b85b5205108934e0c3687a43aa7406d9.MP3/playlist.m3u8",
+            "questionType": "5",
+            "stem": "Questions 16 to 18 are based on the passage you have just heard.",
+            "childcount": 3
+          },
+          "questionlist": [
+            {
+              "questionKey": "629912118530642103",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "60",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912118530642110",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "61",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "629912127120576645",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": null,
+              "questionlist": null,
+              "totalCount": null,
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "62",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": null,
+              "userPracticeKey": null
+            }
+          ],
+          "totalCount": "3",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "60",
+          "paperExplain": null,
+          "questionType": "5",
+          "isCollected": "0",
+          "userPracticeKey": null
+        }
+      ],
+      "totalCount": "11",
+      "groupKey": "630428846046024027",
+      "score": "100.00",
+      "groupName": "第五题（材料）",
+      "isRight": null,
+      "userAnswer": null,
+      "questionSort": null,
+      "paperExplain": "",
+      "questionType": null,
+      "isCollected": null,
+      "userPracticeKey": null
+    },
+    {
+      "questionKey": null,
+      "questionSubject": null,
+      "paperType": "1",
+      "audioFile": null,
+      "isSubtitle": "2",
+      "description": "这是2019年1月的测试试卷1234567890",
+      "matpKey": null,
+      "sort": "6",
+      "questionInfo": null,
+      "questionlist": [
+        {
+          "questionKey": "629912101350772870",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "isright": null,
+            "item": {
+              "questionSubject": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.</p><p></p><p>由于通信网络的快速发展，中国智能手机用户数量近年来以惊人速度增长。这极大地改变了许多人的阅读方式。他们现在经常在智能手机上看新闻和文章，而不买传统报刊。大量移动应用程序（apps）的开发使人们能用手机读小说和其他形式的文学作品。因此，纸质书籍的销售受到了影响。但调查显示，尽管智能手机阅读市场稳步增长，超半数成年人仍喜欢读纸质书。</p><p></p><p>",
+              "appQuestionKey": "629912101350772870",
+              "questionAnalysis": "1. 翻译第一句时,注意“以惊人速度增长”有多种表达方式,可译为increase at a(n) phenomenal/remarkable/astonishing rate,也可译为grow with surprising rapidity。</p><p>2. 第二句较短,且与第一句逻辑关系紧密,可处理为which引导的非限制性定语从句,与第一句合译为一句。句中的“极大地改变了”可以直接译为has greatly/enormously changed,也可以像参考译文一样将其译为has made major changes to。</p><p>3. 翻译第三句时,“而不”可译为instead of,也可译为rather than,但要注意rather than后面的动词要用原形。“报刊”是报纸和期刊的总称,因此可译为newspapers and periodicals。</p><p>4. 翻译第四句时,可以按照汉语的语法成分逐字翻译,将“大量移动应用程序的开发”翻译为主语,译为The development of a large number of mobile apps。此句也可打破汉语语法的限制,翻译为“A large number of mobile apps are developed so that people can read novels and other forms of literature on their smartphones.”。</p><p>5. 翻译最后一句时,“稳步增长”可用grow steadily来表达,也可将其转化为名词形式,翻译为steady growth。</p><p>Because of the rapid development of communication network, the number of smartphone users in China has increased at an astonishing rate in recent years, which has made major changes to the way many people read. Nowadays they often read news and articles on their smartphones instead of buying traditional newspapers and periodicals. The development of a large number of mobile apps enables people to read novels and other forms of literary works through smartphones. Therefore, the sales of paper books are affected. But surveys show that though smartphone reading market is growing steadily, over half of the adults still enjoy reading paper books.</p><p>"
+            },
+            "audioFile": "",
+            "analyze": "1. 翻译第一句时,注意“以惊人速度增长”有多种表达方式,可译为increase at a(n) phenomenal/remarkable/astonishing rate,也可译为grow with surprising rapidity。</p><p>2. 第二句较短,且与第一句逻辑关系紧密,可处理为which引导的非限制性定语从句,与第一句合译为一句。句中的“极大地改变了”可以直接译为has greatly/enormously changed,也可以像参考译文一样将其译为has made major changes to。</p><p>3. 翻译第三句时,“而不”可译为instead of,也可译为rather than,但要注意rather than后面的动词要用原形。“报刊”是报纸和期刊的总称,因此可译为newspapers and periodicals。</p><p>4. 翻译第四句时,可以按照汉语的语法成分逐字翻译,将“大量移动应用程序的开发”翻译为主语,译为The development of a large number of mobile apps。此句也可打破汉语语法的限制,翻译为“A large number of mobile apps are developed so that people can read novels and other forms of literature on their smartphones.”。</p><p>5. 翻译最后一句时,“稳步增长”可用grow steadily来表达,也可将其转化为名词形式,翻译为steady growth。</p><p>Because of the rapid development of communication network, the number of smartphone users in China has increased at an astonishing rate in recent years, which has made major changes to the way many people read. Nowadays they often read news and articles on their smartphones instead of buying traditional newspapers and periodicals. The development of a large number of mobile apps enables people to read novels and other forms of literary works through smartphones. Therefore, the sales of paper books are affected. But surveys show that though smartphone reading market is growing steadily, over half of the adults still enjoy reading paper books.</p><p>",
+            "sort": "63",
+            "useranswer": "",
+            "questionType": "6",
+            "stem": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.</p><p></p><p>由于通信网络的快速发展，中国智能手机用户数量近年来以惊人速度增长。这极大地改变了许多人的阅读方式。他们现在经常在智能手机上看新闻和文章，而不买传统报刊。大量移动应用程序（apps）的开发使人们能用手机读小说和其他形式的文学作品。因此，纸质书籍的销售受到了影响。但调查显示，尽管智能手机阅读市场稳步增长，超半数成年人仍喜欢读纸质书。</p><p></p><p>"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "63",
+          "paperExplain": null,
+          "questionType": "6",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "629912101350772866",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "isright": null,
+            "item": {
+              "questionSubject": "</p><p>Directions: For this part, you are allowed 30 minutes to write a short essay on the challenges of living in a big city. You should write at least 120 words but no more than 180 words.",
+              "appQuestionKey": "629912101350772866",
+              "questionAnalysis": "【1】 引出话题:大城市数量不断增加。</p><p>【2】 指出问题:在大城市生活有诸多挑战。</p><p>【3】 【4】 【6】 使用The first problem、Next和Another consequence分别引出对三个问题的具体阐述（不一定拘泥于“第一”“第二”“第三”的表述）。</p><p>【5】 运用 so...that...句型和unless引导的条件状语,增加句式多样性。</p><p>【7】 以交际方式结尾,增强互动性。</p><p>The Challenges of Living in a Big City</p><p>【1】 With the development of economy and urbanization, the number of big cities is constantly increasing in China. </p><p>【2】 While big cities are attracting more and more people, they also bring many challenges, such as traffic jam and pollution, just to name a few.</p><p>【3】 The first problem that really bothers me is the traffic congestion in the rush hour. I hate waiting for buses and being late. Therefore, I have to get up very early if I have an appointment in the morning. </p><p>【4】 Next is that the large population in a big city makes it </p><p>【5】 so crowded that  you can't find a peaceful place unless  staying at home. The supermarkets are always crowded, so are the cinemas and parks. </p><p>【6】 Another consequence for such a large population is that it intensifies the inadequacy of quality medical and educational resources, thus decreasing residents' sense of happiness.</p><p>【7】 As a result, although I am frequently asked whether I like to live in a big city or not, my answer is always no, definitely not. How about you?</p><p></p><p>"
+            },
+            "audioFile": "",
+            "analyze": "【1】 引出话题:大城市数量不断增加。</p><p>【2】 指出问题:在大城市生活有诸多挑战。</p><p>【3】 【4】 【6】 使用The first problem、Next和Another consequence分别引出对三个问题的具体阐述（不一定拘泥于“第一”“第二”“第三”的表述）。</p><p>【5】 运用 so...that...句型和unless引导的条件状语,增加句式多样性。</p><p>【7】 以交际方式结尾,增强互动性。</p><p>The Challenges of Living in a Big City</p><p>【1】 With the development of economy and urbanization, the number of big cities is constantly increasing in China. </p><p>【2】 While big cities are attracting more and more people, they also bring many challenges, such as traffic jam and pollution, just to name a few.</p><p>【3】 The first problem that really bothers me is the traffic congestion in the rush hour. I hate waiting for buses and being late. Therefore, I have to get up very early if I have an appointment in the morning. </p><p>【4】 Next is that the large population in a big city makes it </p><p>【5】 so crowded that  you can't find a peaceful place unless  staying at home. The supermarkets are always crowded, so are the cinemas and parks. </p><p>【6】 Another consequence for such a large population is that it intensifies the inadequacy of quality medical and educational resources, thus decreasing residents' sense of happiness.</p><p>【7】 As a result, although I am frequently asked whether I like to live in a big city or not, my answer is always no, definitely not. How about you?</p><p></p><p>",
+            "sort": "64",
+            "useranswer": "",
+            "questionType": "6",
+            "stem": "</p><p>Directions: For this part, you are allowed 30 minutes to write a short essay on the challenges of living in a big city. You should write at least 120 words but no more than 180 words."
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "64",
+          "paperExplain": null,
+          "questionType": "6",
+          "isCollected": "0",
+          "userPracticeKey": null
+        },
+        {
+          "questionKey": "629905727619305414",
+          "questionSubject": null,
+          "paperType": null,
+          "audioFile": null,
+          "isSubtitle": null,
+          "description": null,
+          "matpKey": null,
+          "sort": null,
+          "questionInfo": {
+            "isright": null,
+            "item": {
+              "questionSubject": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.</p><p></p><p>由于通信网络的快速发展，中国智能手机用户数量近年来以惊人速度增长。这极大地改变了许多人的阅读方式。他们现在经常在智能手机上看新闻和文章，而不买传统报刊。大量移动应用程序（apps）的开发使人们能用手机读小说和其他形式的文学作品。因此，纸质书籍的销售受到了影响。但调查显示，尽管智能手机阅读市场稳步增长，超半数成年人仍喜欢读纸质书。</p><p></p><p>",
+              "appQuestionKey": "629905727619305414",
+              "questionAnalysis": "1. 翻译第一句时,注意“以惊人速度增长”有多种表达方式,可译为increase at a(n) phenomenal/remarkable/astonishing rate,也可译为grow with surprising rapidity。</p><p>2. 第二句较短,且与第一句逻辑关系紧密,可处理为which引导的非限制性定语从句,与第一句合译为一句。句中的“极大地改变了”可以直接译为has greatly/enormously changed,也可以像参考译文一样将其译为has made major changes to。</p><p>3. 翻译第三句时,“而不”可译为instead of,也可译为rather than,但要注意rather than后面的动词要用原形。“报刊”是报纸和期刊的总称,因此可译为newspapers and periodicals。</p><p>4. 翻译第四句时,可以按照汉语的语法成分逐字翻译,将“大量移动应用程序的开发”翻译为主语,译为The development of a large number of mobile apps。此句也可打破汉语语法的限制,翻译为“A large number of mobile apps are developed so that people can read novels and other forms of literature on their smartphones.”。</p><p>5. 翻译最后一句时,“稳步增长”可用grow steadily来表达,也可将其转化为名词形式,翻译为steady growth。</p><p>"
+            },
+            "audioFile": "",
+            "analyze": "1. 翻译第一句时,注意“以惊人速度增长”有多种表达方式,可译为increase at a(n) phenomenal/remarkable/astonishing rate,也可译为grow with surprising rapidity。</p><p>2. 第二句较短,且与第一句逻辑关系紧密,可处理为which引导的非限制性定语从句,与第一句合译为一句。句中的“极大地改变了”可以直接译为has greatly/enormously changed,也可以像参考译文一样将其译为has made major changes to。</p><p>3. 翻译第三句时,“而不”可译为instead of,也可译为rather than,但要注意rather than后面的动词要用原形。“报刊”是报纸和期刊的总称,因此可译为newspapers and periodicals。</p><p>4. 翻译第四句时,可以按照汉语的语法成分逐字翻译,将“大量移动应用程序的开发”翻译为主语,译为The development of a large number of mobile apps。此句也可打破汉语语法的限制,翻译为“A large number of mobile apps are developed so that people can read novels and other forms of literature on their smartphones.”。</p><p>5. 翻译最后一句时,“稳步增长”可用grow steadily来表达,也可将其转化为名词形式,翻译为steady growth。</p><p>",
+            "sort": "65",
+            "useranswer": "",
+            "questionType": "6",
+            "stem": "Directions: For this part, you are allowed 30 minutes to translate a passage from Chinese into English. You should write your answer on Answer Sheet 2.</p><p></p><p>由于通信网络的快速发展，中国智能手机用户数量近年来以惊人速度增长。这极大地改变了许多人的阅读方式。他们现在经常在智能手机上看新闻和文章，而不买传统报刊。大量移动应用程序（apps）的开发使人们能用手机读小说和其他形式的文学作品。因此，纸质书籍的销售受到了影响。但调查显示，尽管智能手机阅读市场稳步增长，超半数成年人仍喜欢读纸质书。</p><p></p><p>"
+          },
+          "questionlist": null,
+          "totalCount": "1",
+          "groupKey": null,
+          "score": null,
+          "groupName": null,
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": "65",
+          "paperExplain": null,
+          "questionType": "6",
+          "isCollected": "0",
+          "userPracticeKey": null
+        }
+      ],
+      "totalCount": "11",
+      "groupKey": "630428854635958603",
+      "score": "100.00",
+      "groupName": "第六题（主观）",
+      "isRight": null,
+      "userAnswer": null,
+      "questionSort": null,
+      "paperExplain": "",
+      "questionType": null,
+      "isCollected": null,
+      "userPracticeKey": null
+    }
+  ],
+  "issubtitle": "2",
+  "remarks": "这是2019年1月的测试试卷1234567890"
+}

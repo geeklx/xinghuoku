@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="15dp"
+    android:orientation="vertical"
+    android:paddingBottom="20dp">
+
+    <com.github.moon.RichText
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lineSpacingMultiplier="1.5"
+        android:textColor="#1e1e1e"
+        android:textSize="13sp"
+        tools:text="jjjaaaaAj AAA    ssssss    aaaaa" />
+
+    <Space
+        android:layout_width="wrap_content"
+        android:layout_height="15dp" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lineSpacingMultiplier="1.5"
+        android:text="（本题不支持线上作答，请在纸上解答后再较对答案）"
+        android:textColor="#999999"
+        android:textSize="11sp" />
+</LinearLayout>

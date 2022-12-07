@@ -1,0 +1,3751 @@
+ {
+      "questionnum": 1,
+      "questionlist": [
+        {
+          "questionKey": null,
+          "questionSubject": null,
+          "paperType": "3",
+          "audioFile": null,
+          "isSubtitle": "1",
+          "description": "",
+          "matpKey": null,
+          "sort": "1",
+          "questionInfo": null,
+          "questionlist": [
+            {
+              "questionKey": "218289006553612289",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "item": [
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "Congratulations!",
+                        "order": "A",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "That's OK.",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Sorry.",
+                        "order": "C",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:358c5e8d3f9740d492af037b98f48ea1.mp3",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>",
+                    "sort": "1",
+                    "useranswer": "",
+                    "rightanswer": "A",
+                    "questionType": "1",
+                    "stem": ""
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "Forty-six.",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Thanks.",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Not very bad.",
+                        "order": "C",
+                        "isAnswer": "1"
+                      }
+                    ],
+                    "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:358c5e8d3f9740d492af037b98f48ea1.mp3",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>",
+                    "sort": "2",
+                    "useranswer": "",
+                    "rightanswer": "C",
+                    "questionType": "1",
+                    "stem": ""
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "I'm afraid not.",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Certainly",
+                        "order": "B",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "It's very nice of you.",
+                        "order": "C",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:358c5e8d3f9740d492af037b98f48ea1.mp3/playlist.m3u8",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>",
+                    "sort": "3",
+                    "useranswer": "",
+                    "rightanswer": "B",
+                    "questionType": "1",
+                    "stem": ""
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "She works hard.",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "She is a teacher.",
+                        "order": "B",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "She is very busy.",
+                        "order": "C",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:358c5e8d3f9740d492af037b98f48ea1.mp3/playlist.m3u8",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>",
+                    "sort": "4",
+                    "useranswer": "",
+                    "rightanswer": "B",
+                    "questionType": "1",
+                    "stem": ""
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "She's ill.",
+                        "order": "A",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "She isn't at home.",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "I think she will be better.",
+                        "order": "C",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:358c5e8d3f9740d492af037b98f48ea1.mp3/playlist.m3u8",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>",
+                    "sort": "5",
+                    "useranswer": "",
+                    "rightanswer": "A",
+                    "questionType": "1",
+                    "stem": ""
+                  }
+                ],
+                "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:358c5e8d3f9740d492af037b98f48ea1.mp3/playlist.m3u8",
+                "questionType": "5",
+                "stem": "Ⅰ. 听句子，选择最佳答语。每个句子读一遍。(5分)",
+                "childcount": 5
+              },
+              "questionlist": [
+                {
+                  "questionKey": "218289006553612290",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "1",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006553612291",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "2",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006553612292",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "3",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006553612293",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "4",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006566195200",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "5",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                }
+              ],
+              "totalCount": "5",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "1",
+              "paperExplain": null,
+              "questionType": "5",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006566195201",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "item": [
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "A shirt.",
+                        "order": "A",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "A sweater.",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "A coat.",
+                        "order": "C",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:73c246a9e28941a1ab1f10fe0454a640.mp3/playlist.m3u8",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>",
+                    "sort": "6",
+                    "useranswer": "",
+                    "rightanswer": "A",
+                    "questionType": "1",
+                    "stem": "What does the woman want to buy？"
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "The police station.",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "The train station.",
+                        "order": "B",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "The bank.",
+                        "order": "C",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:73c246a9e28941a1ab1f10fe0454a640.mp3/playlist.m3u8",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>",
+                    "sort": "7",
+                    "useranswer": "",
+                    "rightanswer": "B",
+                    "questionType": "1",
+                    "stem": "Where does the woman want to go?"
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "Taking a class.",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Having a meeting.",
+                        "order": "B",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Making a phone call.",
+                        "order": "C",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:73c246a9e28941a1ab1f10fe0454a640.mp3/playlist.m3u8",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>",
+                    "sort": "8",
+                    "useranswer": "",
+                    "rightanswer": "B",
+                    "questionType": "1",
+                    "stem": "What's David doing now？"
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "Because he is ill.",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Because he got up too early this morning.",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Because he went to bed late last night.",
+                        "order": "C",
+                        "isAnswer": "1"
+                      }
+                    ],
+                    "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:73c246a9e28941a1ab1f10fe0454a640.mp3/playlist.m3u8",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>",
+                    "sort": "9",
+                    "useranswer": "",
+                    "rightanswer": "C",
+                    "questionType": "1",
+                    "stem": "Why does Alex look tired?"
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "Another mooncake with meat in it.",
+                        "order": "A",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Another mooncake with nuts in it.",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Another mooncake with fruit in it.",
+                        "order": "C",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:73c246a9e28941a1ab1f10fe0454a640.mp3/playlist.m3u8",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>",
+                    "sort": "10",
+                    "useranswer": "",
+                    "rightanswer": "A",
+                    "questionType": "1",
+                    "stem": "What would Mr Green like?"
+                  }
+                ],
+                "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:73c246a9e28941a1ab1f10fe0454a640.mp3/playlist.m3u8",
+                "questionType": "5",
+                "stem": "Ⅱ. 听五段短对话，选择正确答案。每段对话读两遍。（5分）",
+                "childcount": 5
+              },
+              "questionlist": [
+                {
+                  "questionKey": "218289006566195202",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "6",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006566195203",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "7",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006566195204",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "8",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006566195205",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "9",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006566195206",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "10",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                }
+              ],
+              "totalCount": "5",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "6",
+              "paperExplain": null,
+              "questionType": "5",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006566195207",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "item": [
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "Their neighbors upstairs.",
+                        "order": "A",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Their neighbors downstairs.",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Jack.",
+                        "order": "C",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:2b143f2147ff4e83ad7d94bcc89c876a.mp3/playlist.m3u8",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>",
+                    "sort": "11",
+                    "useranswer": "",
+                    "rightanswer": "A",
+                    "questionType": "1",
+                    "stem": "Who makes the noise?"
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "Listening to the radio.",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Taking an exam.",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Studying.",
+                        "order": "C",
+                        "isAnswer": "1"
+                      }
+                    ],
+                    "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:2b143f2147ff4e83ad7d94bcc89c876a.mp3/playlist.m3u8",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>",
+                    "sort": "12",
+                    "useranswer": "",
+                    "rightanswer": "C",
+                    "questionType": "1",
+                    "stem": "What's the girl doing?"
+                  }
+                ],
+                "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:2b143f2147ff4e83ad7d94bcc89c876a.mp3/playlist.m3u8",
+                "questionType": "5",
+                "stem": "听第一段对话，回答第11~12题。",
+                "childcount": 2
+              },
+              "questionlist": [
+                {
+                  "questionKey": "218289006566195208",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "11",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006566195209",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "12",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                }
+              ],
+              "totalCount": "2",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "11",
+              "paperExplain": null,
+              "questionType": "5",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006566195210",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "item": [
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "Carol's mother.",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Mr Bush.",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Carol.",
+                        "order": "C",
+                        "isAnswer": "1"
+                      }
+                    ],
+                    "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:8b33f44f20744cdc8934a0c6c5816517.mp3/playlist.m3u8",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>",
+                    "sort": "13",
+                    "useranswer": "",
+                    "rightanswer": "C",
+                    "questionType": "1",
+                    "stem": "Who has a problem?"
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "A cell phone.",
+                        "order": "A",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "A computer.",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "A bike.",
+                        "order": "C",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:8b33f44f20744cdc8934a0c6c5816517.mp3/playlist.m3u8",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>",
+                    "sort": "14",
+                    "useranswer": "",
+                    "rightanswer": "A",
+                    "questionType": "1",
+                    "stem": "What does Carol want to have？"
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "Be angry.",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Be pleased.",
+                        "order": "B",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Be surprised.",
+                        "order": "C",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:8b33f44f20744cdc8934a0c6c5816517.mp3/playlist.m3u8",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>",
+                    "sort": "15",
+                    "useranswer": "",
+                    "rightanswer": "B",
+                    "questionType": "1",
+                    "stem": "What will Carol's father do if Carol says sorry to him?"
+                  }
+                ],
+                "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:8b33f44f20744cdc8934a0c6c5816517.mp3/playlist.m3u8",
+                "questionType": "5",
+                "stem": "听第二段对话，回答第13~15题。",
+                "childcount": 3
+              },
+              "questionlist": [
+                {
+                  "questionKey": "218289006566195211",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "13",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006566195212",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "14",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006566195213",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "15",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                }
+              ],
+              "totalCount": "3",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "13",
+              "paperExplain": null,
+              "questionType": "5",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006566195214",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "item": [
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "In an old house.",
+                        "order": "A",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "In a new house.",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "In his son's house.",
+                        "order": "C",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:c1bc971c1ac44a5e82eacdb402dcc224.mp3/playlist.m3u8",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>",
+                    "sort": "16",
+                    "useranswer": "",
+                    "rightanswer": "A",
+                    "questionType": "1",
+                    "stem": "Where does Mr White live?"
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "Last Thursday.",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Last Friday.",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Last Saturday.",
+                        "order": "C",
+                        "isAnswer": "1"
+                      }
+                    ],
+                    "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:c1bc971c1ac44a5e82eacdb402dcc224.mp3/playlist.m3u8",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>",
+                    "sort": "17",
+                    "useranswer": "",
+                    "rightanswer": "C",
+                    "questionType": "1",
+                    "stem": "When did Mr White's son get married?"
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "In the city.",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "In the town.",
+                        "order": "B",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "In the countryside.",
+                        "order": "C",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:c1bc971c1ac44a5e82eacdb402dcc224.mp3/playlist.m3u8",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>",
+                    "sort": "18",
+                    "useranswer": "",
+                    "rightanswer": "B",
+                    "questionType": "1",
+                    "stem": "Where did Mr White's son get married?"
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "A clock and a watch.",
+                        "order": "A",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Two clocks.",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Two watches.",
+                        "order": "C",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:c1bc971c1ac44a5e82eacdb402dcc224.mp3/playlist.m3u8",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>",
+                    "sort": "19",
+                    "useranswer": "",
+                    "rightanswer": "A",
+                    "questionType": "1",
+                    "stem": "What did Mr White buy at last?"
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "Eight dollars.",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Nine dollars.",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Ten dollars.",
+                        "order": "C",
+                        "isAnswer": "1"
+                      }
+                    ],
+                    "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:c1bc971c1ac44a5e82eacdb402dcc224.mp3/playlist.m3u8",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>",
+                    "sort": "20",
+                    "useranswer": "",
+                    "rightanswer": "C",
+                    "questionType": "1",
+                    "stem": "How much did Mr White pay at last?"
+                  }
+                ],
+                "audioFile": "http://voddev.sparke.cn/vod_dev/video/dfxl/mp3:c1bc971c1ac44a5e82eacdb402dcc224.mp3/playlist.m3u8",
+                "questionType": "5",
+                "stem": "Ⅳ. 听短文，选择正确答案。短文读两遍。（5分）",
+                "childcount": 5
+              },
+              "questionlist": [
+                {
+                  "questionKey": "218289006566195215",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "16",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006566195216",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "17",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006566195217",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "18",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006566195218",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "19",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006566195219",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "20",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                }
+              ],
+              "totalCount": "5",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "16",
+              "paperExplain": null,
+              "questionType": "5",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006570389504",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "a; The",
+                    "order": "A",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "the; The",
+                    "order": "B",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "an; The",
+                    "order": "C",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "an; A",
+                    "order": "D",
+                    "isAnswer": "0"
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>题意：“你有一个国际长途电话。”“谢谢。电话是我姨妈打来的。”第一个空泛指“一个长途电话”，应用不定冠词，international以元音音素开头，故用an；第二个空特指刚刚提到的电话，用定冠词。<br/>",
+                "sort": "21",
+                "useranswer": "",
+                "rightanswer": "C",
+                "questionType": "1",
+                "stem": " —Here is _____international call for you. <br/>—Thank you. _____call is from my aunt."
+              },
+              "questionlist": null,
+              "totalCount": "1",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "21",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006570389505",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "as highly as",
+                    "order": "A",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "as high as",
+                    "order": "B",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "as more highly as",
+                    "order": "C",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "as higher as",
+                    "order": "D",
+                    "isAnswer": "0"
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>题意：“戴维又应得男子跳高比赛。”“不奇怪。谁能跟她一样跳那么高？”as…as…结构中用形容词或副词原形，所以排除C、D项；修饰动词jump，表示具体意义的“高”，应用high，故选B。highly“高度地”，表示抽象意义。<br/>",
+                "sort": "22",
+                "useranswer": "",
+                "rightanswer": "B",
+                "questionType": "1",
+                "stem": " —David won men's high jump again.<br/>—No surprise. Who else can jump_______he does?"
+              },
+              "questionlist": null,
+              "totalCount": "1",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "22",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006570389506",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "Have you seen; have seen",
+                    "order": "A",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "Have you seen; saw",
+                    "order": "B",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "Did you see; have seen",
+                    "order": "C",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "Did you see; saw",
+                    "order": "D",
+                    "isAnswer": "0"
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>题意：“你见过我的眼镜了吗？没有眼镜我没法看书。”“我看见在书桌上，但现在不在那儿了。”第一空询问是否“见过”，对现在有影响，故用现在完成时；第二空，从后半句可以推测出，“看见”是过去的动作，故用一般过去时。<br/>",
+                "sort": "23",
+                "useranswer": "",
+                "rightanswer": "B",
+                "questionType": "1",
+                "stem": " —____________ my glasses? I can’t read without them. <br/> —I ____________ them on the desk, but they are not there now."
+              },
+              "questionlist": null,
+              "totalCount": "1",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "23",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006570389507",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "to close; Not at all",
+                    "order": "A",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "my closing; Never mind",
+                    "order": "B",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "my closing; Certainly not",
+                    "order": "C",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "to close; Better not",
+                    "order": "D",
+                    "isAnswer": "0"
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>题意：“今天好冷。你介意我关上门吗？”“当然不。做你想做的。”mind后接动名词作宾语，my closing是动名词的复合结构；根据“so cold”及“Do it as you like”可知，答语表示“不介意”，故选C。<br/>",
+                "sort": "24",
+                "useranswer": "",
+                "rightanswer": "C",
+                "questionType": "1",
+                "stem": " — It’s so cold today. Would you mind ____________ the door?<br/> — ____________. Do it as you like."
+              },
+              "questionlist": null,
+              "totalCount": "1",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "24",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006570389508",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "married to; got married",
+                    "order": "A",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "been married; got married",
+                    "order": "B",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "married; married to",
+                    "order": "C",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "been married to; got married",
+                    "order": "D",
+                    "isAnswer": "1"
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：D</p>题意：“怀特先生跟琼结婚多久了？” “我不确定。可能他们五年前结婚的。”第一空，根据how long可知应用现在完成时，be married to sb.“与某人结婚”，是固定用法；第二空，表示“结婚”应用get married。<br/>",
+                "sort": "25",
+                "useranswer": "",
+                "rightanswer": "D",
+                "questionType": "1",
+                "stem": "—How long has Mr. White __________ Joan?  <br/>   —I’m not sure. Maybe they __________ five years ago."
+              },
+              "questionlist": null,
+              "totalCount": "1",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "25",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006570389509",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "learning",
+                    "order": "A",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "to learn",
+                    "order": "B",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "have learnt",
+                    "order": "C",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "learned",
+                    "order": "D",
+                    "isAnswer": "0"
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>题意：我觉得你应该花尽可能多的时间学习数学和英语。spend time doing sth.“花费时间做某事”，是固定用法。<br/>",
+                "sort": "26",
+                "useranswer": "",
+                "rightanswer": "A",
+                "questionType": "1",
+                "stem": "I think you should spend as much time as you can_____ Maths and English."
+              },
+              "questionlist": null,
+              "totalCount": "1",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "26",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006570389510",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "who to talk",
+                    "order": "A",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "where to talk to",
+                    "order": "B",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "who to talk to",
+                    "order": "C",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "how to talk to",
+                    "order": "D",
+                    "isAnswer": "0"
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>题意：琳达不知道跟谁说她的问题。talk about sth. to sb.“与某人谈论某事”，是固定用法；本句是“疑问词+不定式”结构，作know的宾语，故用who to talk to。<br/>",
+                "sort": "27",
+                "useranswer": "",
+                "rightanswer": "C",
+                "questionType": "1",
+                "stem": "Linda doesn’t know __________about her problems."
+              },
+              "questionlist": null,
+              "totalCount": "1",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "27",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006570389511",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "mustn’t",
+                    "order": "A",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "needn’t",
+                    "order": "B",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "shouldn’t",
+                    "order": "C",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "can’t",
+                    "order": "D",
+                    "isAnswer": "1"
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：D</p>题意：“一定是吉姆在隔壁唱歌。”“不可能是他。他已经去上海度假了。”根据后一句“去了上海度假”可知，表示有把握的否定推测，故用can’t“不可能”。mustn’t“禁止”；needn’t“不必”；shouldn’t“不应该”。<br/>",
+                "sort": "28",
+                "useranswer": "",
+                "rightanswer": "D",
+                "questionType": "1",
+                "stem": " — It must be Jim singing next door.<br/> — It ________ be him. He has already gone to Shanghai on holiday."
+              },
+              "questionlist": null,
+              "totalCount": "1",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "28",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006570389512",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "thought",
+                    "order": "A",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "had thought",
+                    "order": "B",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "am thinking",
+                    "order": "C",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "was thinking",
+                    "order": "D",
+                    "isAnswer": "1"
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：D</p>题意：“你觉得我对这个问题的答案怎么样？”“抱歉。我在想其他事情。”根据“sorry”可知，“想其他事”是刚才正在进行的动作，故用过去进行时。<br/>",
+                "sort": "29",
+                "useranswer": "",
+                "rightanswer": "D",
+                "questionType": "1",
+                "stem": " — What do you think of my answer to the question? <br/>— Sorry. I ________ about something else."
+              },
+              "questionlist": null,
+              "totalCount": "1",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "29",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006570389513",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "No",
+                    "order": "A",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "Yes",
+                    "order": "B",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "Yes",
+                    "order": "C",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "No",
+                    "order": "D",
+                    "isAnswer": "0"
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>题意：“你爸爸从来没去过其他国家，是吧？”“不，他去过。他打算再出国一次。”根据答语第二句可知，此处表示“他去过”；反意疑问句的陈述部分是否定形式，故答语选C。<br/>",
+                "sort": "30",
+                "useranswer": "",
+                "rightanswer": "C",
+                "questionType": "1",
+                "stem": " —Your father’s never been to other countries, has he?<br/>   — ________. He plans to go abroad for a second time."
+              },
+              "questionlist": null,
+              "totalCount": "1",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "30",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006570389514",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "has gone to; has been to",
+                    "order": "A",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "has gone to; has been in",
+                    "order": "B",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "has been to; has been in",
+                    "order": "C",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "has been in; has gone to",
+                    "order": "D",
+                    "isAnswer": "0"
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>题意：“史密斯先生在哪里？”“他去了广州。他在广州待了一个周了。”表示“去了某地”用have been to，故排除A、B两项；第二空，根据“for a week”可知，表示持续的动作或状态，故用has been in。<br/>",
+                "sort": "31",
+                "useranswer": "",
+                "rightanswer": "C",
+                "questionType": "1",
+                "stem": "— Where is Mr. Smith?   <br/>— He ________ Guangzhou. He ________ Guangzhou for a week."
+              },
+              "questionlist": null,
+              "totalCount": "1",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "31",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006570389515",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "experience; experience",
+                    "order": "A",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "experiences; experiences",
+                    "order": "B",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "experiences; experience",
+                    "order": "C",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "experience; experiences",
+                    "order": "D",
+                    "isAnswer": "1"
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：D</p>题意：“刘老师是一位有丰富教学经验的老师吗？”“是的。他课后总是告诉我们一些有趣的经历。”experience表示“经验”是不可数名词，表示“经历”时是可数名词，故第一空填experience；第二空前有some修饰，故填experiences。<br/>",
+                "sort": "32",
+                "useranswer": "",
+                "rightanswer": "D",
+                "questionType": "1",
+                "stem": " —Is Mr. Liu a teacher with a lot of teaching ________?   <br/>   —Yes, he is. He always tells us some funny ________ after class."
+              },
+              "questionlist": null,
+              "totalCount": "1",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "32",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006570389516",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "keep",
+                    "order": "A",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "buy",
+                    "order": "B",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "bought",
+                    "order": "C",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "had",
+                    "order": "D",
+                    "isAnswer": "1"
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：D</p>题意：他无法清楚地说明他买这辆自行车多长时间了。根据how long可知，应用现在完成时，且应用持续性动词，故选D。<br/>",
+                "sort": "33",
+                "useranswer": "",
+                "rightanswer": "D",
+                "questionType": "1",
+                "stem": " He can’t state clearly how long he has _________ the bicycle."
+              },
+              "questionlist": null,
+              "totalCount": "1",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "33",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006570389517",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "mustn’t; must",
+                    "order": "A",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "mustn’t; may",
+                    "order": "B",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "needn’t ; may",
+                    "order": "C",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "don’t have to; must",
+                    "order": "D",
+                    "isAnswer": "0"
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>题意：“我必须现在铺床吗，妈妈？”“不，不必。你可以晚点铺。”回答must的一般疑问句，否定回答用needn’t或don’t have to；表示“可以”用may。mustn’t“禁止”；must“必须”。<br/>",
+                "sort": "34",
+                "useranswer": "",
+                "rightanswer": "C",
+                "questionType": "1",
+                "stem": " —Must I make the bed now, Mum?<br/>—No, you ______<img src='http://img.sparke.cn/images/dfxl/old/d6d0205e3a8e420d98059f157e3cb92c.png'/>_. You _______ do it later."
+              },
+              "questionlist": null,
+              "totalCount": "1",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "34",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006570389518",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "isright": null,
+                "item": [
+                  {
+                    "imgs": "",
+                    "content": "Certainly not",
+                    "order": "A",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "My pleasure",
+                    "order": "B",
+                    "isAnswer": "1"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "With pleasure",
+                    "order": "C",
+                    "isAnswer": "0"
+                  },
+                  {
+                    "imgs": "",
+                    "content": "Take it easy",
+                    "order": "D",
+                    "isAnswer": "0"
+                  }
+                ],
+                "audioFile": "",
+                "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>题意：“莉莉，你帮了我很多。谢谢。”“不客气。”对别人的道谢应用my pleasure“别客气，不用谢”。A项意为“当然不”；C项意为“很乐意”；D项意为“放松点”。",
+                "sort": "35",
+                "useranswer": "",
+                "rightanswer": "B",
+                "questionType": "1",
+                "stem": " —Lily, you’ve helped me a lot. Thanks.   <br/>— ____________."
+              },
+              "questionlist": null,
+              "totalCount": "1",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "35",
+              "paperExplain": null,
+              "questionType": "1",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006574583808",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "item": [
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "happy",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "surprised",
+                        "order": "B",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "sorry",
+                        "order": "C",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "angry",
+                        "order": "D",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>由句意可知，龙虾在暴风雨天里准备航行，这让螃蟹感到很吃惊，故选B项。<br/>",
+                    "sort": "36",
+                    "useranswer": "",
+                    "rightanswer": "B",
+                    "questionType": "1",
+                    "stem": ""
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "this",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "that",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "one",
+                        "order": "C",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "it",
+                        "order": "D",
+                        "isAnswer": "1"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：D</p>此处是It is+adj.+to do sth.句型。it在句中作形式主语。<br/>",
+                    "sort": "37",
+                    "useranswer": "",
+                    "rightanswer": "D",
+                    "questionType": "1",
+                    "stem": ""
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "storm",
+                        "order": "A",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "rain",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "snow",
+                        "order": "C",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "wind",
+                        "order": "D",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>由文章第一句“On a stormy day, the crab walked on the beach.”可知，这是一个暴风雨的天气，故选A项。<br/>",
+                    "sort": "38",
+                    "useranswer": "",
+                    "rightanswer": "A",
+                    "questionType": "1",
+                    "stem": ""
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "lonely",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "simple",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "alone",
+                        "order": "C",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "only",
+                        "order": "D",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>此处指螃蟹不想龙虾独自去冒险。alone意为“独自”，符合句意。<br/>",
+                    "sort": "39",
+                    "useranswer": "",
+                    "rightanswer": "C",
+                    "questionType": "1",
+                    "stem": ""
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "himself",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "yourself",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "themselves",
+                        "order": "C",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "herself",
+                        "order": "D",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>本句主语为they，其反身代词为themselves。句意：他们发现他们自己离岸边很远了。<br/>",
+                    "sort": "40",
+                    "useranswer": "",
+                    "rightanswer": "C",
+                    "questionType": "1",
+                    "stem": ""
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "And",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "But",
+                        "order": "B",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Or",
+                        "order": "C",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "So",
+                        "order": "D",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>上下句为转折关系，应用转折连词but。<br/>",
+                    "sort": "41",
+                    "useranswer": "",
+                    "rightanswer": "B",
+                    "questionType": "1",
+                    "stem": ""
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "want",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "lose",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "get",
+                        "order": "C",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "miss",
+                        "order": "D",
+                        "isAnswer": "1"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：D</p>句意:螃蟹开始思念在海岸上平静的生活。miss意为“思念”，符合句意。<br/>",
+                    "sort": "42",
+                    "useranswer": "",
+                    "rightanswer": "D",
+                    "questionType": "1",
+                    "stem": ""
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "of",
+                        "order": "A",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "with",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "for",
+                        "order": "C",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "with",
+                        "order": "D",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>be full of...意为“充满……”，为固定搭配。<br/>",
+                    "sort": "43",
+                    "useranswer": "",
+                    "rightanswer": "A",
+                    "questionType": "1",
+                    "stem": ""
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "exciting",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "relaxing",
+                        "order": "B",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "dangerous",
+                        "order": "C",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "boring",
+                        "order": "D",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>龙虾拉着他放松地在海底走着。relaxing修饰名词walk。<br/>",
+                    "sort": "44",
+                    "useranswer": "",
+                    "rightanswer": "B",
+                    "questionType": "1",
+                    "stem": ""
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "How",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "How a",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "What a",
+                        "order": "C",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "What",
+                        "order": "D",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>此处考查感叹句，因所填写词修饰可数名词adventure, adventure前有wonderful修饰，故用what a。",
+                    "sort": "45",
+                    "useranswer": "",
+                    "rightanswer": "C",
+                    "questionType": "1",
+                    "stem": ""
+                  }
+                ],
+                "audioFile": "",
+                "questionType": "5",
+                "stem": "On a stormy day, the crab(螃蟹) walked on the beach. He was 　<u>1</u>　 to see the lobster(龙虾) preparing to start a sail in his boat. “Lobster,” said the crab, “　　<u>2</u>　 is dangerous to take an adventure on a day like this.” <br/>“Perhaps so,” said the lobster, “but I love the 　<u>3</u>　 at sea!” “I will come with you,” said the crab. “I will not let you face such danger 　<u>4</u>　.” <br/>The lobster and the crab began their trip. Soon they found 　<u>5</u>　 far from the shore. Their boat was tossed(上下摇动) by the strong waves. “Crab!”shouted the lobster. “For me, the strong waves are thrilling! 　<u>6</u>　 they make me excited. I like to try different things.” “Lobster, I think we are sinking,” cried the crab. He began to 　<u>7</u>　 the peaceful life he had on the beach. <br/>“Yes, of course we are sinking,” said the lobster. “This old boat is full 　<u>8</u>　 holes. Be brave, my dear friend. We can overcome the difficulties.” <br/>The little boat turned over and sank. The crab was upset. The lobster took him for a 　<u>9</u>　 walk in the sea. “How brave we are,” said the lobster. “　<u>10</u>　 wonderful adventure we have had.” The crab began to feel excited. He enjoyed the adventure and their courage very much.",
+                "childcount": 10
+              },
+              "questionlist": [
+                {
+                  "questionKey": "218289006574583809",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "36",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006574583810",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "37",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006574583811",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "38",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006574583812",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "39",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006574583813",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "40",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006574583814",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "41",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006574583815",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "42",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006574583816",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "43",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006574583817",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "44",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006574583818",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "45",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                }
+              ],
+              "totalCount": "10",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "36",
+              "paperExplain": null,
+              "questionType": "5",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006574583819",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "item": [
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "Bored and nervous.",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Nervous and excited.",
+                        "order": "B",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Excited and interested.",
+                        "order": "C",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Relaxed and interested.",
+                        "order": "D",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>细节理解题。由第一段第二句“He felt nervous but excited about his new job.”可知，对于新的工作，他感到既紧张又兴奋。<br/>",
+                    "sort": "46",
+                    "useranswer": "",
+                    "rightanswer": "B",
+                    "questionType": "1",
+                    "stem": "How did William feel about his new job?"
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "A traffic accident.",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "A charity job.",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "A lot of training.",
+                        "order": "C",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Less work.",
+                        "order": "D",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>细节理解题。由第二段第一句“Prince William has got the training from traffic accidents to heart attacks before his new job.”可知，他在正式工作之前进行了一些训练。<br/>",
+                    "sort": "47",
+                    "useranswer": "",
+                    "rightanswer": "C",
+                    "questionType": "1",
+                    "stem": "What has William got before working as an air ambulance pilot?"
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "Nine and a half hours.",
+                        "order": "A",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Nine hours.",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Eight hours.",
+                        "order": "C",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Less than eight hours.",
+                        "order": "D",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>细节理解题。由第二段第四句“As an air ambulance pilot, he will work for nine and a half hours per day in the first few months.”可知，在前几个月他每天工作九个半小时。<br/>",
+                    "sort": "48",
+                    "useranswer": "",
+                    "rightanswer": "A",
+                    "questionType": "1",
+                    "stem": "How long will he work a day in the first few months?"
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "地位",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "薪水",
+                        "order": "B",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "职业",
+                        "order": "C",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "经验",
+                        "order": "D",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>词义猜测题。由下句“He said he was happy to be able to help others.”可知，他很高兴能够帮助别人，由此可推断，前一句是说他把薪水给了慈善机构，salary意为“薪水”。<br/>",
+                    "sort": "49",
+                    "useranswer": "",
+                    "rightanswer": "B",
+                    "questionType": "1",
+                    "stem": "The underlined word “salary” here means in Chinese."
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "Prince William’s New Job",
+                        "order": "A",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "How to Be a Pilot",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Who Is Prince William?",
+                        "order": "C",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "To Be a Good Man",
+                        "order": "D",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>主旨大意题。本文主要介绍了威廉王子的新工作——空中救护飞行员，故选A项。",
+                    "sort": "50",
+                    "useranswer": "",
+                    "rightanswer": "A",
+                    "questionType": "1",
+                    "stem": "What is the best title for the passage?"
+                  }
+                ],
+                "audioFile": "",
+                "questionType": "5",
+                "stem": "Prince William got a new job as an air ambulance pilot on Monday. He felt nervous but excited about his new job.<br/>Prince William has got the training from traffic accidents to heart attacks before his new job. Then he started to work for East Anglian Air Ambulance(东盎格鲁空中救护). Though he has the charity job, William will continue his royal(王室的) duties. As an air ambulance pilot, he will work for nine and a half hours per day in the first few months. He will work four days and then have four days off. He will work less in the future.<br/>“I think doing a job like this really helps me a lot and that’s part of my dream,” William said. “I’m trying to be a good man, to do what I can and trying to help others.” The prince will give his <u>salary</u> to charities. He said he was happy to be able to help others.",
+                "childcount": 5
+              },
+              "questionlist": [
+                {
+                  "questionKey": "218289006574583820",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "46",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006574583821",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "47",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006574583822",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "48",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006574583823",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "49",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006574583824",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "50",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                }
+              ],
+              "totalCount": "5",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "46",
+              "paperExplain": null,
+              "questionType": "5",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006574583825",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "item": [
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "fight with others",
+                        "order": "A",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "talk with your friends",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "play a sport you like",
+                        "order": "C",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "do some reading",
+                        "order": "D",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>细节理解题。通读全文可知，作者没有提到“与别人打架”这一观点。<br/>",
+                    "sort": "51",
+                    "useranswer": "",
+                    "rightanswer": "A",
+                    "questionType": "1",
+                    "stem": "If you want to keep yourself happy, you cannot <u>　　　</u>according to the passage."
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "travel",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "newspaper",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "magazine",
+                        "order": "C",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "diary",
+                        "order": "D",
+                        "isAnswer": "1"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：D</p>词义猜测题。由画线词后面的介绍可推测，能够让人写下回忆、成功的事等的可能是日记，故猜测journal意为“日记，日志”。<br/>",
+                    "sort": "52",
+                    "useranswer": "",
+                    "rightanswer": "D",
+                    "questionType": "1",
+                    "stem": "The underlined word “journal” here means <u>　　　</u> in English."
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "one hour",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "half an hour",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "a quarter",
+                        "order": "C",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "five minutes",
+                        "order": "D",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>细节理解题。由第五条建议“Go for a 15-minute run, then take a nice shower, and pick out a new movie to watch!”可知，情绪低落时，你可以跑15分钟，即一刻钟。<br/>",
+                    "sort": "53",
+                    "useranswer": "",
+                    "rightanswer": "C",
+                    "questionType": "1",
+                    "stem": "If you feel sad, you can spend <u>　　　</u>running to relax."
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "When you feel sad",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Doing something crazy can make you feel relaxed.",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "You will be very happy when your goal comes true.",
+                        "order": "C",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "You mustn’t talk with your parents about your problems.",
+                        "order": "D",
+                        "isAnswer": "1"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：D</p>细节理解题。由第一条建议“Talk to your parents, friends or teachers, and tell them what is going on.”可知，你可以和父母谈谈(自己的困惑)。<br/>",
+                    "sort": "54",
+                    "useranswer": "",
+                    "rightanswer": "D",
+                    "questionType": "1",
+                    "stem": "Which of the following is NOT true according to the passage?"
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "how to succeed",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "how to stay happy",
+                        "order": "B",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "what to do with goals",
+                        "order": "C",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "how to do something crazy",
+                        "order": "D",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>主旨大意题。本文主要讲述了保持愉快心情的方法。",
+                    "sort": "55",
+                    "useranswer": "",
+                    "rightanswer": "B",
+                    "questionType": "1",
+                    "stem": "The passage mainly tells us <u>　　　</u>."
+                  }
+                ],
+                "audioFile": "",
+                "questionType": "5",
+                "stem": "Everyone feels unhappy sometimes. But it’s not a good idea to stay in those bad feelings. If you learn how to keep yourself happy, you’ll likely avoid a lot of problems.<br/>★ Talk to your parents, friends or teachers, and tell them what is going on. It is amazing how much better you feel after talking about your problems.<br/>★ Do something you enjoy, like reading novels, listening to music, or even sleeping.<br/>★ Play a sport you enjoy. This will improve your mood.<br/>★ Keep a “Happy Moments” <u>journal</u> where you write down your best memories, successes, and the moments you felt great. When you feel down, read them and remember how great you are.<br/>★ Go for a 15-minute run, then take a nice shower, and pick out a new movie to watch!<br/>★ Do something crazy. Dance in the dark. Scream as loud as you can. Eat a big bowl of something you know you shouldn’t.<br/>★ Think about your goals in life, and how happy you’ll be when you complete them.",
+                "childcount": 5
+              },
+              "questionlist": [
+                {
+                  "questionKey": "218289006574583826",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "51",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006574583827",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "52",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006574583828",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "53",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006574583829",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "54",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006574583830",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "55",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                }
+              ],
+              "totalCount": "5",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "51",
+              "paperExplain": null,
+              "questionType": "5",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006574583831",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "item": [
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "In August.",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "In September.",
+                        "order": "B",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "In October.",
+                        "order": "C",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "In November.",
+                        "order": "D",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>细节理解题。由第二段讲述的重阳节的来历可知，重阳节是在九月。<br/>",
+                    "sort": "56",
+                    "useranswer": "",
+                    "rightanswer": "B",
+                    "questionType": "1",
+                    "stem": "When is the Chinese Chongyang Festival?"
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "To climb up a mountain.",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "To stop the monster.",
+                        "order": "B",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "To eat Chongyang cake.",
+                        "order": "C",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "To get a special plant.",
+                        "order": "D",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：B</p>细节理解题。由第二段的描述可知，大师是让桓景阻止怪兽。<br/>",
+                    "sort": "57",
+                    "useranswer": "",
+                    "rightanswer": "B",
+                    "questionType": "1",
+                    "stem": "What did the master want Huan Jing to do?"
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "On a mountain.",
+                        "order": "A",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "In their houses.",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Near the river.",
+                        "order": "C",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "In the master’s home.",
+                        "order": "D",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：A</p>细节理解题。由第二段中的“Huan Jing went home and told the villagers to climb up a mountain with a special plant on their clothes. The monster came out of the water...”可知，人们当时在山上。<br/>",
+                    "sort": "58",
+                    "useranswer": "",
+                    "rightanswer": "A",
+                    "questionType": "1",
+                    "stem": "Where were the people when Huan Jing killed the monster?"
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "They stay at home and cook delicious food.",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "They climb a mountain with the young.",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "They climb a mountain to kill the monster.",
+                        "order": "C",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "They show their love and respect to the elderly.",
+                        "order": "D",
+                        "isAnswer": "1"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：D</p>细节理解题。由最后一段第一句“Today, Chongyang Festival is also a special day for people to show their respect to the elderly.”可知，现在人们在重阳节都会表达对长辈的爱和尊敬。<br/>",
+                    "sort": "59",
+                    "useranswer": "",
+                    "rightanswer": "D",
+                    "questionType": "1",
+                    "stem": "What do people usually do on Chongyang Festival now?"
+                  },
+                  {
+                    "isright": null,
+                    "item": [
+                      {
+                        "imgs": "",
+                        "content": "A Brave Boy",
+                        "order": "A",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "A Dangerous Monster",
+                        "order": "B",
+                        "isAnswer": "0"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "The Story of Chongyang Festival",
+                        "order": "C",
+                        "isAnswer": "1"
+                      },
+                      {
+                        "imgs": "",
+                        "content": "Huan Jing and a Monster",
+                        "order": "D",
+                        "isAnswer": "0"
+                      }
+                    ],
+                    "audioFile": "",
+                    "analyze": "<p>您选择的答案：</p><p>正确答案：C</p>主旨大意题。本文主要讲述了重阳节的来历，故C项为最佳标题。",
+                    "sort": "60",
+                    "useranswer": "",
+                    "rightanswer": "C",
+                    "questionType": "1",
+                    "stem": "What’s the best title for the passage?"
+                  }
+                ],
+                "audioFile": "",
+                "questionType": "5",
+                "stem": "Chongyang Festival is also called Double Ninth Festival. People often climb the mountains and enjoy the beautiful scenery. People also eat Chongyang cake on that day.<br/>The festival came from an old story. Long ago, a monster in the river made villagers ill. So Huan Jing, a brave boy, went to visit a master. The master said, “Tomorrow is the ninth day of September and the monster will come out of the river. You should stop it.” Huan Jing went home and told the villagers to climb up a mountain with a special plant on their clothes. The monster came out of the water the next day. When it climbed the mountain, the monster smelt the special plant and became dizzy(眩晕的). Then, Huan Jing killed it. Since then, climbing mountains on the day of Chongyang Festival has become popular.<br/>Today, Chongyang Festival is also a special day for people to show their respect to the elderly. On this day, why not spend a day with your parents or grandparents?",
+                "childcount": 5
+              },
+              "questionlist": [
+                {
+                  "questionKey": "218289006574583832",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "56",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006574583833",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "57",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006574583834",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "58",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006574583835",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "59",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                },
+                {
+                  "questionKey": "218289006574583836",
+                  "questionSubject": null,
+                  "paperType": null,
+                  "audioFile": null,
+                  "isSubtitle": null,
+                  "description": null,
+                  "matpKey": null,
+                  "sort": null,
+                  "questionInfo": null,
+                  "questionlist": null,
+                  "totalCount": null,
+                  "groupKey": null,
+                  "score": null,
+                  "groupName": null,
+                  "isRight": null,
+                  "userAnswer": null,
+                  "questionSort": "60",
+                  "paperExplain": null,
+                  "questionType": "1",
+                  "isCollected": null,
+                  "userPracticeKey": null
+                }
+              ],
+              "totalCount": "5",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "56",
+              "paperExplain": null,
+              "questionType": "5",
+              "isCollected": "0",
+              "userPracticeKey": null
+            },
+            {
+              "questionKey": "218289006574583837",
+              "questionSubject": null,
+              "paperType": null,
+              "audioFile": null,
+              "isSubtitle": null,
+              "description": null,
+              "matpKey": null,
+              "sort": null,
+              "questionInfo": {
+                "isright": null,
+                "item": {
+                  "questionSubject": "学校环保周的主题是“One Earth, One World”。为此，学生会准备举办一次英语征文活动，征文的题目是“What Can We Do for Wildlife?”。请根据下面的提示并结合自己所学的内容，写一篇征文，表达自己的建议。<br/><img src='http://img.sparke.cn/images/dfxl/old/f50d3ddfaaea4fe8a1a8412e487cdc41.png'/><br/>要求：1. 覆盖要点，并补充两点建议；<br/>2. 70词左右,征文的开头已给出，不计入总词数。<br/>What Can We Do for Wildlife?<br/>It’s hard for wildlife to survive in the wild because of people. I think all of us should do something to protect wildlife.<br/>___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________",
+                  "appQuestionKey": "218289006574583837",
+                  "questionAnalysis": "What Can We Do for Wildlife?<br/><u>It’s hard for wildlife to survive in the wild because of people. I think all of us should do something to protect wildlife. </u><br/>I think, first of all, people should stop cutting down trees. Trees mean a lot of things to us. And we should build nature reserves for wild animals. And it’s also very important to say no to illegal hunting. I think the government should do something to make more people understand the importance of protecting wildlife. As students, we can do something, too. For example, we can ask our parents to stop buying clothes made of animal fur. We can also plant trees with our friends."
+                },
+                "audioFile": "",
+                "analyze": "What Can We Do for Wildlife?<br/><u>It’s hard for wildlife to survive in the wild because of people. I think all of us should do something to protect wildlife. </u><br/>I think, first of all, people should stop cutting down trees. Trees mean a lot of things to us. And we should build nature reserves for wild animals. And it’s also very important to say no to illegal hunting. I think the government should do something to make more people understand the importance of protecting wildlife. As students, we can do something, too. For example, we can ask our parents to stop buying clothes made of animal fur. We can also plant trees with our friends.",
+                "sort": "61",
+                "useranswer": "",
+                "questionType": "6",
+                "stem": "学校环保周的主题是“One Earth, One World”。为此，学生会准备举办一次英语征文活动，征文的题目是“What Can We Do for Wildlife?”。请根据下面的提示并结合自己所学的内容，写一篇征文，表达自己的建议。<br/><img src='http://img.sparke.cn/images/dfxl/old/f50d3ddfaaea4fe8a1a8412e487cdc41.png'/><br/>要求：1. 覆盖要点，并补充两点建议；<br/>2. 70词左右,征文的开头已给出，不计入总词数。<br/>What Can We Do for Wildlife?<br/>It’s hard for wildlife to survive in the wild because of people. I think all of us should do something to protect wildlife.<br/>___________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________"
+              },
+              "questionlist": null,
+              "totalCount": "1",
+              "groupKey": null,
+              "score": null,
+              "groupName": null,
+              "isRight": null,
+              "userAnswer": null,
+              "questionSort": "61",
+              "paperExplain": null,
+              "questionType": "6",
+              "isCollected": "0",
+              "userPracticeKey": null
+            }
+          ],
+          "totalCount": "25",
+          "groupKey": "218289006553612288",
+          "score": "100.0",
+          "groupName": "仅包含小题",
+          "isRight": null,
+          "userAnswer": null,
+          "questionSort": null,
+          "paperExplain": null,
+          "questionType": null,
+          "isCollected": null,
+          "userPracticeKey": null
+        }
+      ],
+      "issubtitle": "1",
+      "remarks": ""
+    }

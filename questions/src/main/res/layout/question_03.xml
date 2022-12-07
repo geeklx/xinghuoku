@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_margin="15dp"
+              android:paddingBottom="20dp"
+              android:layout_height="wrap_content">
+
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="34dp"
+            android:layout_marginTop="11.5dp"
+            android:background="@drawable/bg_shape_34_01d045"
+            android:gravity="center_vertical"
+            android:paddingStart="19dp"
+            android:paddingEnd="18dp">
+        <ImageView android:layout_width="14dp"
+                   android:src="@drawable/ic_audio_play_q"
+                   android:layout_height="14dp"/>
+        <Space android:layout_width="10dp"
+               android:layout_height="wrap_content"/>
+        <TextView
+                android:id="@+id/tv_current_time"
+                android:layout_width="wrap_content"
+                android:textColor="#ffffff"
+                android:textSize="12sp"
+                android:layout_height="wrap_content"
+                tools:text="00:00"/>
+
+        <SeekBar
+                android:id="@+id/seek_bar"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:indeterminateOnly="false"
+                android:max="20"
+                android:progress="20"
+                android:progressBackgroundTint="#80e8ad"
+                android:progressTint="#ffffff"
+                android:thumb="@drawable/ic_audio_slider"/>
+
+
+        <TextView
+                android:id="@+id/tv_total_time"
+                android:textColor="#ffffff"
+                android:textSize="12sp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:text="00:00"/>
+    </LinearLayout>
+    <Space android:layout_width="wrap_content"
+           android:layout_height="15dp"/>
+    <TextView android:layout_width="match_parent"
+              android:textSize="13sp"
+              android:textColor="#1e1e1e"
+              android:lineSpacingMultiplier="1.2"
+              tools:text="j
+              j
+              j
+              a
+              a
+              a
+              a
+A
+j
+A
+A
+A
+                     dddddsssssssssssssssssssssssssssssssssssssssseeddddddddddasssssssssssssssssssssssssssss                                                                         s
+ s
+s
+ss
+s
+  a
+a
+
+aaa"
+              android:layout_height="wrap_content"/>
+
+</LinearLayout>

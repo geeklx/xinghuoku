@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_options"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginStart="15dp"
+    android:layout_marginTop="5dp"
+    android:layout_marginEnd="15dp"
+    android:layout_marginBottom="5dp"
+    android:background="@drawable/bg_shape_3_f7f7f7_ff"
+    android:orientation="horizontal">
+
+    <TextView
+        android:id="@+id/tv_option"
+        android:layout_width="33dp"
+        android:layout_height="match_parent"
+        android:background="@drawable/bg_shape_3_f7f7f7_ff"
+        android:gravity="center"
+        android:text="A"
+        android:textColor="#1482ff"
+        android:textSize="14sp" />
+
+    <com.github.moon.RichText
+        android:id="@+id/tv_option_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="12dp"
+        android:ellipsize="end"
+        android:gravity="center_vertical"
+        android:text="Aa"
+        android:textColor="#1e1e1e"
+        android:textSize="14sp" />
+</LinearLayout>

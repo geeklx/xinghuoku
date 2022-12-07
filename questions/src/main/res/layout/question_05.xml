@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:background="#ffffff"
+              android:layout_marginBottom="5dp"
+              android:layout_height="wrap_content">
+    <EditText android:layout_width="match_parent"
+              android:gravity="center"
+              android:id="@+id/tv_option"
+              android:hint="请输入你的答案"
+              android:textSize="15sp"
+              android:textCursorDrawable="@drawable/edit_cursor_color"
+              android:textColorHint="#cccccc"
+              android:layout_margin="15dp"
+              android:background="@drawable/bg_shape_3_f7f7f7_ff"
+              android:textColor="#333333"
+              android:layout_height="45dp"/>
+    <Button android:layout_width="match_parent"
+            android:id="@+id/bt_commit"
+            android:layout_margin="15dp"
+            android:textColor="#ffffff"
+            android:text="确定"
+            android:textSize="15sp"
+            android:background="@drawable/bg_shape_3_1482ff"
+            android:layout_height="45dp"/>
+</LinearLayout>

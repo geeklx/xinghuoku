@@ -53,10 +53,7 @@ include ':libsCenter', ':biz-libs'
 // start aar
 include ':libsCenterNew',
         ':libsCenterNew:alipaysdk',
-        ':libsCenterNew:hooklistenerlib2',
-        ':libsCenterNew:libmvpaar',
-        ':libsCenterNew:libretrofitaar',
-        ':libsCenterNew:opendroid2'
+        ':libsCenterNew:libquestionsdk'
 // end aar
 
 // commonlibs
@@ -66,4 +63,5 @@ include ':library'
 include ':livemodule'
 include ':UdeskSDKUI'
 include ':zxinglibrary'
+include ':questions'
 

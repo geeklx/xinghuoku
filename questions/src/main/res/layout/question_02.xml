@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_marginLeft="15dp"
+    android:layout_marginTop="15dp"
+    android:layout_marginRight="15dp"
+    android:orientation="vertical">
+
+    <com.github.moon.RichText
+        android:id="@+id/tv_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:lineSpacingMultiplier="1.5"
+        android:textColor="#1e1e1e"
+        android:textSize="13sp"
+        tools:text="jjjaaaaAj AAA    ssssss    aaaaa" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="34dp"
+        android:layout_marginTop="29.5dp"
+        android:background="@drawable/bg_shape_34_01d045"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:paddingStart="19dp"
+        android:paddingEnd="18dp">
+
+        <ImageView
+            android:id="@+id/iv_play"
+            android:layout_width="14dp"
+            android:layout_height="14dp"
+            android:src="@drawable/ic_audio_play_q_normal" />
+
+        <TextView
+            android:id="@+id/tv_current_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:textColor="#ffffff"
+            android:textSize="12sp"
+            tools:text="00:00" />
+
+        <SeekBar
+            android:id="@+id/seek_bar"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:indeterminateOnly="false"
+            android:max="0"
+            android:progress="0"
+            android:progressBackgroundTint="#80e8ad"
+            android:progressTint="#ffffff"
+            android:thumb="@drawable/ic_audio_slider" />
+
+        <TextView
+            android:id="@+id/tv_total_time"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="#ffffff"
+            android:textSize="12sp"
+            tools:text="00:00" />
+    </LinearLayout>
+
+    <com.hw.lrcviewlib.LrcView
+        android:id="@+id/lrc_view"
+        android:visibility="gone"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"/>
+</LinearLayout>
