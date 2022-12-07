@@ -11,7 +11,8 @@
 //}
 //// mob
 //apply from: './../../MobSDK.gradle'
-
+apply plugin: 'com.android.library'
+apply plugin: 'kotlin-android'
 apply from: "${rootDir.path}/gradle/publish.gradle"
 apply from: "${rootDir.path}/gradle/base.gradle"
 def librarys = rootProject.ext.dependencies //依赖

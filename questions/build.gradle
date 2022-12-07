@@ -1,3 +1,5 @@
+apply plugin: 'com.android.library'
+apply plugin: 'kotlin-android'
 apply from: "${rootDir.path}/gradle/publish.gradle"
 apply from: "${rootDir.path}/gradle/base.gradle"
 def librarys = rootProject.ext.dependencies //依赖
@@ -17,7 +19,7 @@ dependencies {
             "org.jetbrains.anko:anko-cardview-v7:0.10.8",
             "org.jetbrains.anko:anko-recyclerview-v7:0.10.8")
     implementation 'com.squareup.retrofit2:converter-gson:2.4.0'
-//    api 'com.github.bifan-wei:LrcView:V1.3'
-    api project(':libsCenterNew:libquestionsdk')
+    api 'com.github.bifan-wei:LrcView:V1.3'
+//    api project(':libsCenterNew:libquestionsdk')
 }
 
