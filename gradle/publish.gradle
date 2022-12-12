@@ -5,11 +5,14 @@
 //    id 'maven-publish'//用来推送aar到jitpack
 ////    id 'pl.allegro.tech.build.axion-release' version '1.13.6'//用来发行aar版本的插件
 //}
-
 apply plugin: 'maven-publish'
 
 afterEvaluate {
     publishing {
+//        singleVariant('release') {
+//            withSourcesJar()
+//            withJavadocJar()
+//        }
         publications {
             release(MavenPublication) {
                 from components.release

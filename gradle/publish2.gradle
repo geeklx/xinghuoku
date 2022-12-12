@@ -5,7 +5,7 @@
 //    id 'pl.allegro.tech.build.axion-release' version '1.13.6'//用来发行aar版本的插件
 //}
 //apply plugin: 'com.android.library'
-//apply plugin: 'kotlin-android'
+//// apply plugin: 'kotlin-android'
 //apply plugin: 'maven-publish'
 //apply plugin: 'pl.allegro.tech.build.axion-release'
 def config = rootProject.ext //配置
