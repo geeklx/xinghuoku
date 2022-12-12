@@ -71,9 +71,9 @@ dependencies {
 //    api project(':livemodule')
 //    api project(':UdeskSDKUI')
 //    api project(':zxinglibrary')
-    implementation 'com.github.geeklx.libbase2:libgeek:2.2.9'//核心库
-    implementation 'com.github.geeklx.libbase1:libshadowlayout:2.1.1'//核心库
-    implementation 'com.github.MachineHou:Aspectjrt:1.0.8'
+//    implementation 'com.github.geeklx.libbase2:libgeek:2.3.3'//核心库
+//    implementation 'com.github.geeklx.libbase1:libshadowlayout:2.1.2'//核心库
+//    implementation 'com.github.MachineHou:Aspectjrt:1.0.8'
 //    implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0'
 
 //    implementation 'com.github.geeklx.libbase2:libutils:2.1.4'
