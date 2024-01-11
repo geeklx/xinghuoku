@@ -1,14 +1,16 @@
 package cn.udesk.fragment;
 
-import androidx.lifecycle.ViewModelProviders;
 import android.content.Context;
 import android.os.Bundle;
-import androidx.annotation.NonNull;
-import androidx.annotation.Nullable;
-import androidx.fragment.app.Fragment;
+import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+
+import androidx.annotation.NonNull;
+import androidx.annotation.Nullable;
+import androidx.fragment.app.Fragment;
+import androidx.lifecycle.ViewModelProviders;
 
 import cn.udesk.aac.UdeskViewMode;
 import cn.udesk.activity.UdeskChatActivity;
@@ -16,17 +18,28 @@ import cn.udesk.activity.UdeskChatActivity;
 public abstract class UdeskbaseFragment extends Fragment {
 
     protected abstract void initView(View view, Bundle savedInstanceState);
+
     //获取布局文件ID
     protected abstract int getLayoutId();
+
     public abstract void initFunctionAdapter();
+
     public abstract void initfunctionItems();
+
     public abstract void hideMoreLayout();
+
     public abstract void setNavigationViewVis();
+
     public abstract void addNavigationFragment();
+
     public abstract CharSequence getInputContent();
+
     public abstract void clearInputContent();
+
     public abstract void onBackPressed();
+
     public abstract void cleanSource();
+
     public abstract void setUdeskImContainerVis(int vis);
 
     protected UdeskChatActivity udeskChatActivity;
@@ -34,7 +47,7 @@ public abstract class UdeskbaseFragment extends Fragment {
 
     @Override
     public void onAttach(Context context) {
-        udeskChatActivity=(UdeskChatActivity)context;
+        udeskChatActivity = (UdeskChatActivity) context;
         udeskViewMode = ViewModelProviders.of(udeskChatActivity).get(UdeskViewMode.class);
         super.onAttach(context);
     }
@@ -47,5 +60,9 @@ public abstract class UdeskbaseFragment extends Fragment {
         return view;
     }
 
-
+    @Override
+    public void onCreate(@Nullable Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        Log.i("ClassName====", getClass().getSimpleName());
+    }
 }

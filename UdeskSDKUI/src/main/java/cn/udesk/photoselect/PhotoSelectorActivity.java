@@ -125,25 +125,25 @@ public class PhotoSelectorActivity extends FragmentActivity implements View.OnCl
             allfolderRc.setAdapter(folderAdapter);
 
             localMedialLoader = new LocalMedialLoader();
-            if (Build.VERSION.SDK_INT < 23) {
+//            if (Build.VERSION.SDK_INT < 23) {
                 readLocalMedia();
-            } else {
-                XPermissionUtils.requestPermissions(PhotoSelectorActivity.this, RequestCode.EXTERNAL,
-                        new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE},
-                        new XPermissionUtils.OnPermissionListener() {
-                            @Override
-                            public void onPermissionGranted() {
-                                readLocalMedia();
-                            }
-
-                            @Override
-                            public void onPermissionDenied(String[] deniedPermissions, boolean alwaysDenied) {
-                                Toast.makeText(getApplicationContext(),
-                                        getResources().getString(R.string.photo_denied),
-                                        Toast.LENGTH_SHORT).show();
-                            }
-                        });
-            }
+//            } else {
+//                XPermissionUtils.requestPermissions(PhotoSelectorActivity.this, RequestCode.EXTERNAL,
+//                        new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE},
+//                        new XPermissionUtils.OnPermissionListener() {
+//                            @Override
+//                            public void onPermissionGranted() {
+//                                readLocalMedia();
+//                            }
+//
+//                            @Override
+//                            public void onPermissionDenied(String[] deniedPermissions, boolean alwaysDenied) {
+//                                Toast.makeText(getApplicationContext(),
+//                                        getResources().getString(R.string.photo_denied),
+//                                        Toast.LENGTH_SHORT).show();
+//                            }
+//                        });
+//            }
             setViewEneable();
         } catch (Exception e) {
             e.printStackTrace();

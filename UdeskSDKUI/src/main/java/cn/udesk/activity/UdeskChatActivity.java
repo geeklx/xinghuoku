@@ -62,6 +62,8 @@ import java.util.concurrent.ConcurrentHashMap;
 import cn.udesk.JsonUtils;
 import cn.udesk.PreferenceHelper;
 import cn.udesk.R;
+import cn.udesk.UdeskMPermissionUtils;
+import cn.udesk.UdeskPermissionUtlis;
 import cn.udesk.UdeskSDKManager;
 import cn.udesk.UdeskUtil;
 import cn.udesk.aac.MergeMode;
@@ -91,19 +93,18 @@ import cn.udesk.model.Robot;
 import cn.udesk.model.SurveyOptionsModel;
 import cn.udesk.model.UdeskCommodityItem;
 import cn.udesk.model.UdeskQueueItem;
-import cn.udesk.permission.RequestCode;
 import cn.udesk.permission.XPermissionUtils;
 import cn.udesk.photoselect.PhotoSelectorActivity;
 import cn.udesk.photoselect.entity.LocalMedia;
 import cn.udesk.voice.RecordFilePlay;
 import cn.udesk.voice.RecordPlay;
 import cn.udesk.voice.RecordPlayCallback;
-import cn.udesk.widget.UdeskMaxHeightView;
 import cn.udesk.widget.RecycleViewDivider;
 import cn.udesk.widget.UDPullGetMoreListView;
 import cn.udesk.widget.UdeskConfirmPopWindow;
 import cn.udesk.widget.UdeskConfirmPopWindow.OnPopConfirmClick;
 import cn.udesk.widget.UdeskExpandableLayout;
+import cn.udesk.widget.UdeskMaxHeightView;
 import cn.udesk.widget.UdeskMultiMenuHorizontalWindow;
 import cn.udesk.widget.UdeskMultiMenuHorizontalWindow.OnPopMultiMenuClick;
 import cn.udesk.widget.UdeskSurvyPopwindow;
@@ -204,7 +205,7 @@ public class UdeskChatActivity extends UdeskBaseActivity implements IEmotionSele
     String moreThanStirng;
     //输入联想功能
     private RecyclerView mRvAssociate;
-//    private LinearLayout mLlAssociate;
+    //    private LinearLayout mLlAssociate;
     private UdeskMaxHeightView mLlAssociate;
     private int robotSengMsgCount = 0;
 
@@ -373,7 +374,7 @@ public class UdeskChatActivity extends UdeskBaseActivity implements IEmotionSele
                 return;
             }
             Customer customer = initCustomer.getCustomer();
-            if (isBlocked(customer)){
+            if (isBlocked(customer)) {
                 commodityView.setVisibility(View.GONE);
                 mListView.setVisibility(View.GONE);
                 return;
@@ -510,8 +511,8 @@ public class UdeskChatActivity extends UdeskBaseActivity implements IEmotionSele
                                 udeskViewMode.getSendMessageLiveData().removeSendMsgCace(successMsgId);
                                 changeImState(successMsgId, UdeskConst.SendFlag.RESULT_SUCCESS);
                                 Iterator<MessageInfo> iterator = imLeaveMsgCache.iterator();
-                                while (iterator.hasNext()){
-                                    if (iterator.next().getMsgId().equals(successMsgId)){
+                                while (iterator.hasNext()) {
+                                    if (iterator.next().getMsgId().equals(successMsgId)) {
                                         iterator.remove();
                                     }
                                 }
@@ -736,8 +737,8 @@ public class UdeskChatActivity extends UdeskBaseActivity implements IEmotionSele
                                 for (int i = 0; i < replieMode.getMessages().size(); i++) {
                                     LogBean allMessage = (LogBean) replieMode.getMessages().get(i);
                                     ArrayList<MessageInfo> messageInfos = UdeskUtil.buildAllMessage(allMessage);
-                                    if (messageInfos != null && messageInfos.size()>0) {
-                                        for(MessageInfo info:messageInfos){
+                                    if (messageInfos != null && messageInfos.size() > 0) {
+                                        for (MessageInfo info : messageInfos) {
                                             if (info != null) {
 //                                                info.setSwitchStaffType(0);
                                                 messageInfoList.add(info);
@@ -795,7 +796,7 @@ public class UdeskChatActivity extends UdeskBaseActivity implements IEmotionSele
                         //加载本地数据库
                         case UdeskConst.LiveDataType.LoadHistoryDBMsg:
                             List<MessageInfo> msgs = (List<MessageInfo>) mergeMode.getData();
-                            if (msgs != null && msgs.size() >0){
+                            if (msgs != null && msgs.size() > 0) {
                                 for (MessageInfo info : msgs) {
                                     if ((info.getSwitchStaffType() == UdeskConst.SwitchStaffType.RECOMMEND
                                             || info.getSwitchStaffType() == UdeskConst.SwitchStaffType.RECOMMEND_SEND_MESSAGE)
@@ -890,13 +891,13 @@ public class UdeskChatActivity extends UdeskBaseActivity implements IEmotionSele
                                     }
                                 }
                                 ArrayList<MessageInfo> messageInfos = UdeskUtil.buildAllMessage(logBean);
-                                if (messageInfos != null && messageInfos.size()>0) {
-                                    boolean isAutoTransfer = false ;
-                                    for(MessageInfo info:messageInfos){
+                                if (messageInfos != null && messageInfos.size() > 0) {
+                                    boolean isAutoTransfer = false;
+                                    for (MessageInfo info : messageInfos) {
                                         udeskViewMode.getDbLiveData().saveMessageDB(info);
                                         mChatAdapter.addItem(info);
                                         mListView.smoothScrollToPosition(mChatAdapter.getCount());
-                                        if (info.getSwitchStaffType() == UdeskConst.SwitchStaffType.AUTO){
+                                        if (info.getSwitchStaffType() == UdeskConst.SwitchStaffType.AUTO) {
                                             isAutoTransfer = true;
                                         }
                                     }
@@ -1004,7 +1005,7 @@ public class UdeskChatActivity extends UdeskBaseActivity implements IEmotionSele
                                     for (int i = 0; i < allMessageMode.getMessages().size(); i++) {
                                         LogBean allMessage = (LogBean) allMessageMode.getMessages().get(i);
                                         ArrayList<MessageInfo> messageInfos = UdeskUtil.buildAllMessage(allMessage);
-                                        if (messageInfos != null && messageInfos.size()>0) {
+                                        if (messageInfos != null && messageInfos.size() > 0) {
                                             for (MessageInfo info : messageInfos) {
                                                 if ((info.getSwitchStaffType() == UdeskConst.SwitchStaffType.RECOMMEND
                                                         || info.getSwitchStaffType() == UdeskConst.SwitchStaffType.RECOMMEND_SEND_MESSAGE)
@@ -1107,14 +1108,14 @@ public class UdeskChatActivity extends UdeskBaseActivity implements IEmotionSele
             if (isblocked.equals("true")) {
                 return;
             }
-            if (mAgentInfo != null && !TextUtils.isEmpty(mAgentInfo.getAgentJid()) && jid.contains(mAgentInfo.getAgentJid())){
+            if (mAgentInfo != null && !TextUtils.isEmpty(mAgentInfo.getAgentJid()) && jid.contains(mAgentInfo.getAgentJid())) {
                 if (onlineflag == UdeskConst.ONLINEFLAG) {
-                    doAgentStatus(on,mAgentInfo);
+                    doAgentStatus(on, mAgentInfo);
                     if (popWindow != null) {
                         popWindow.cancle();
                     }
                 } else if (onlineflag == UdeskConst.OFFLINEFLAG) {
-                    doAgentStatus(off,mAgentInfo);
+                    doAgentStatus(off, mAgentInfo);
                 }
             }
         }
@@ -1491,11 +1492,12 @@ public class UdeskChatActivity extends UdeskBaseActivity implements IEmotionSele
             e.printStackTrace();
         }
     }
-    private void sendVideoMessage(ImSetting sdkimSetting,AgentInfo mAgentInfo, Context context ) {
-        UdeskUtil.sendVideoMessage(sdkimSetting,mAgentInfo,context);
-        if (connectVideoWebSocket != null){
+
+    private void sendVideoMessage(ImSetting sdkimSetting, AgentInfo mAgentInfo, Context context) {
+        UdeskUtil.sendVideoMessage(sdkimSetting, mAgentInfo, context);
+        if (connectVideoWebSocket != null) {
             InvokeEventContainer.getInstance().event_OnConnectWebsocket.invoke(context);
-        }else {
+        } else {
             connectVideoWebSocket = UdeskUtil.connectVideoWebSocket(context);
         }
     }
@@ -1506,21 +1508,29 @@ public class UdeskChatActivity extends UdeskBaseActivity implements IEmotionSele
             if (Build.VERSION.SDK_INT < 23) {
                 takePhoto();
             } else {
-                XPermissionUtils.requestPermissions(UdeskChatActivity.this, RequestCode.CAMERA,
-                        new String[]{Manifest.permission.CAMERA,
-                                Manifest.permission.RECORD_AUDIO,
-                                Manifest.permission.WRITE_EXTERNAL_STORAGE},
-                        new XPermissionUtils.OnPermissionListener() {
-                            @Override
-                            public void onPermissionGranted() {
-                                takePhoto();
-                            }
-
-                            @Override
-                            public void onPermissionDenied(String[] deniedPermissions, boolean alwaysDenied) {
-                                UdeskUtils.showToast(getApplicationContext(), getResources().getString(R.string.camera_denied));
-                            }
-                        });
+                UdeskPermissionUtlis.INSTANCE.checkPermissions(this, new String[]{Manifest.permission.CAMERA}, () -> {
+//                initPermission();
+//                finish();
+                    return null;
+                }, () -> {
+                    takePhoto();
+                    return null;
+                });
+//                XPermissionUtils.requestPermissions(UdeskChatActivity.this, RequestCode.CAMERA,
+//                        new String[]{Manifest.permission.CAMERA,
+//                                Manifest.permission.RECORD_AUDIO,
+//                                Manifest.permission.WRITE_EXTERNAL_STORAGE},
+//                        new XPermissionUtils.OnPermissionListener() {
+//                            @Override
+//                            public void onPermissionGranted() {
+//                                takePhoto();
+//                            }
+//
+//                            @Override
+//                            public void onPermissionDenied(String[] deniedPermissions, boolean alwaysDenied) {
+//                                UdeskUtils.showToast(getApplicationContext(), getResources().getString(R.string.camera_denied));
+//                            }
+//                        });
             }
         } catch (Exception e) {
             e.printStackTrace();
@@ -1533,19 +1543,41 @@ public class UdeskChatActivity extends UdeskBaseActivity implements IEmotionSele
             if (Build.VERSION.SDK_INT < 23) {
                 selectPhoto();
             } else {
-                XPermissionUtils.requestPermissions(UdeskChatActivity.this, RequestCode.EXTERNAL,
-                        new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE},
-                        new XPermissionUtils.OnPermissionListener() {
-                            @Override
-                            public void onPermissionGranted() {
-                                selectPhoto();
-                            }
-
-                            @Override
-                            public void onPermissionDenied(String[] deniedPermissions, boolean alwaysDenied) {
-                                UdeskUtils.showToast(getApplicationContext(), getResources().getString(R.string.photo_denied));
-                            }
-                        });
+                if (android.os.Build.VERSION.SDK_INT >= android.os.Build.VERSION_CODES.TIRAMISU) {
+                    UdeskPermissionUtlis.INSTANCE.checkPermissions(this, new String[]{Manifest.permission.READ_MEDIA_VIDEO,
+                            Manifest.permission.READ_MEDIA_AUDIO,
+                            Manifest.permission.READ_MEDIA_IMAGES}, () -> {
+//                initPermission();
+//                finish();
+                        return null;
+                    }, () -> {
+                        selectPhoto();
+                        return null;
+                    });
+                } else {
+                    UdeskPermissionUtlis.INSTANCE.checkPermissions(this, new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE,
+                            Manifest.permission.READ_EXTERNAL_STORAGE}, () -> {
+//                initPermission();
+//                finish();
+                        return null;
+                    }, () -> {
+                        selectPhoto();
+                        return null;
+                    });
+                }
+//                XPermissionUtils.requestPermissions(UdeskChatActivity.this, RequestCode.EXTERNAL,
+//                        new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE},
+//                        new XPermissionUtils.OnPermissionListener() {
+//                            @Override
+//                            public void onPermissionGranted() {
+//                                selectPhoto();
+//                            }
+//
+//                            @Override
+//                            public void onPermissionDenied(String[] deniedPermissions, boolean alwaysDenied) {
+//                                UdeskUtils.showToast(getApplicationContext(), getResources().getString(R.string.photo_denied));
+//                            }
+//                        });
             }
         } catch (Resources.NotFoundException e) {
             e.printStackTrace();
@@ -1558,19 +1590,27 @@ public class UdeskChatActivity extends UdeskBaseActivity implements IEmotionSele
             if (Build.VERSION.SDK_INT < 23) {
                 selectFile();
             } else {
-                XPermissionUtils.requestPermissions(UdeskChatActivity.this, RequestCode.EXTERNAL,
-                        new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE},
-                        new XPermissionUtils.OnPermissionListener() {
-                            @Override
-                            public void onPermissionGranted() {
-                                selectFile();
-                            }
-
-                            @Override
-                            public void onPermissionDenied(String[] deniedPermissions, boolean alwaysDenied) {
-                                UdeskUtils.showToast(getApplicationContext(), getResources().getString(R.string.file_denied));
-                            }
-                        });
+                UdeskPermissionUtlis.INSTANCE.checkPermissions(this, new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE}, () -> {
+//                initPermission();
+//                finish();
+                    return null;
+                }, () -> {
+                    selectFile();
+                    return null;
+                });
+//                XPermissionUtils.requestPermissions(UdeskChatActivity.this, RequestCode.EXTERNAL,
+//                        new String[]{Manifest.permission.WRITE_EXTERNAL_STORAGE},
+//                        new XPermissionUtils.OnPermissionListener() {
+//                            @Override
+//                            public void onPermissionGranted() {
+//                                selectFile();
+//                            }
+//
+//                            @Override
+//                            public void onPermissionDenied(String[] deniedPermissions, boolean alwaysDenied) {
+//                                UdeskUtils.showToast(getApplicationContext(), getResources().getString(R.string.file_denied));
+//                            }
+//                        });
             }
         } catch (Resources.NotFoundException e) {
             e.printStackTrace();
@@ -1655,23 +1695,23 @@ public class UdeskChatActivity extends UdeskBaseActivity implements IEmotionSele
                 }
                 UdeskChatActivity.this.startActivity(intent);
             } else {
-                XPermissionUtils.requestPermissions(UdeskChatActivity.this, RequestCode.CallPhone,
-                        new String[]{Manifest.permission.CALL_PHONE},
-                        new XPermissionUtils.OnPermissionListener() {
-                            @Override
-                            public void onPermissionGranted() {
-                                Intent intent = new Intent(Intent.ACTION_CALL, Uri.parse(mobile));
-                                if (ActivityCompat.checkSelfPermission(UdeskChatActivity.this, Manifest.permission.CALL_PHONE) != PackageManager.PERMISSION_GRANTED) {
-                                    return;
-                                }
-                                UdeskChatActivity.this.startActivity(intent);
-                            }
-
-                            @Override
-                            public void onPermissionDenied(String[] deniedPermissions, boolean alwaysDenied) {
-                                UdeskUtils.showToast(getApplicationContext(), getResources().getString(R.string.call_denied));
-                            }
-                        });
+//                XPermissionUtils.requestPermissions(UdeskChatActivity.this, RequestCode.CallPhone,
+//                        new String[]{Manifest.permission.CALL_PHONE},
+//                        new XPermissionUtils.OnPermissionListener() {
+//                            @Override
+//                            public void onPermissionGranted() {
+                Intent intent = new Intent(Intent.ACTION_CALL, Uri.parse(mobile));
+                if (ActivityCompat.checkSelfPermission(UdeskChatActivity.this, Manifest.permission.CALL_PHONE) != PackageManager.PERMISSION_GRANTED) {
+                    return;
+                }
+                UdeskChatActivity.this.startActivity(intent);
+//                            }
+//
+//                            @Override
+//                            public void onPermissionDenied(String[] deniedPermissions, boolean alwaysDenied) {
+//                                UdeskUtils.showToast(getApplicationContext(), getResources().getString(R.string.call_denied));
+//                            }
+//                        });
             }
         } catch (Exception e) {
             e.printStackTrace();
@@ -1710,7 +1750,7 @@ public class UdeskChatActivity extends UdeskBaseActivity implements IEmotionSele
                 if (Activity.RESULT_OK == resultCode) {
                     if (photoUri != null && photoUri.getPath() != null) {
                         if (UdeskSDKManager.getInstance().getUdeskConfig().isScaleImg) {
-                            udeskViewMode.scaleBitmap(getApplicationContext(),UdeskUtil.parseOwnUri(photoUri, UdeskChatActivity.this, cameraFile), 0);
+                            udeskViewMode.scaleBitmap(getApplicationContext(), UdeskUtil.parseOwnUri(photoUri, UdeskChatActivity.this, cameraFile), 0);
                         } else {
                             udeskViewMode.sendFileMessage(this.getApplicationContext(), UdeskUtil.parseOwnUri(photoUri, this.getApplicationContext(), cameraFile), UdeskConst.ChatMsgTypeString.TYPE_IMAGE);
                         }
@@ -1762,7 +1802,7 @@ public class UdeskChatActivity extends UdeskBaseActivity implements IEmotionSele
                             if (isOrigin) {
                                 udeskViewMode.sendFileMessage(this.getApplicationContext(), media.getPath(), UdeskConst.ChatMsgTypeString.TYPE_IMAGE);
                             } else {
-                                udeskViewMode.scaleBitmap(getApplicationContext(),media.getPath(), media.getOrientation());
+                                udeskViewMode.scaleBitmap(getApplicationContext(), media.getPath(), media.getOrientation());
                             }
                         }
                     }
@@ -1778,7 +1818,7 @@ public class UdeskChatActivity extends UdeskBaseActivity implements IEmotionSele
                         if (mImageCaptureUri != null) {
                             String path = UdeskUtil.getFilePath(getApplicationContext(), mImageCaptureUri);
                             if (UdeskSDKManager.getInstance().getUdeskConfig().isScaleImg) {
-                                udeskViewMode.scaleBitmap(getApplicationContext(),path, 0);
+                                udeskViewMode.scaleBitmap(getApplicationContext(), path, 0);
                             } else {
                                 udeskViewMode.sendFileMessage(this.getApplicationContext(), path, UdeskConst.ChatMsgTypeString.TYPE_IMAGE);
                             }
@@ -2638,7 +2678,7 @@ public class UdeskChatActivity extends UdeskBaseActivity implements IEmotionSele
                     }
                     break;
                 case UdeskConst.AgentResponseCode.WaitAgent:
-                    if (TextUtils.equals(curentStatus,UdeskConst.Status.leaveMessage)){
+                    if (TextUtils.equals(curentStatus, UdeskConst.Status.leaveMessage)) {
                         return;
                     }
                     curentStatus = UdeskConst.Status.queuing;
@@ -3076,9 +3116,9 @@ public class UdeskChatActivity extends UdeskBaseActivity implements IEmotionSele
     @Override
     public void onBackPressed() {
         try {
-            if (fragment != null){
+            if (fragment != null) {
                 fragment.onBackPressed();
-            }else {
+            } else {
                 super.onBackPressed();
             }
         } catch (Exception e) {
@@ -3149,7 +3189,8 @@ public class UdeskChatActivity extends UdeskBaseActivity implements IEmotionSele
     @Override
     public void onRequestPermissionsResult(int requestCode, @NonNull String[] permissions, @NonNull int[] grantResults) {
         try {
-            XPermissionUtils.onRequestPermissionsResult(this, requestCode, permissions, grantResults);
+            UdeskMPermissionUtils.INSTANCE.onRequestPermissionsResult(requestCode, permissions, grantResults);
+//            XPermissionUtils.onRequestPermissionsResult(this, requestCode, permissions, grantResults);
             super.onRequestPermissionsResult(requestCode, permissions, grantResults);
         } catch (Exception e) {
             e.printStackTrace();
